@@ -1,0 +1,33 @@
+site_name: Lakehouse Databricks - Trabalho 3
+site_description: Documentacao do pipeline Lakehouse com Databricks Free Edition e Arquitetura Medalhao
+site_author: Murilo
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Inicio: index.md
+  - Arquitetura: arquitetura.md
+  - Base de Dados: dados.md
+  - Execucao: execucao.md
+  - Job Databricks: job.md
+  - Modelo Gold: gold.md
+  - Notebooks:
+      - 001 - Preparando ambiente: notebooks/001_preparando_ambiente.md
+      - 002 - Bronze: notebooks/002_bronze.md
+      - 003 - Silver: notebooks/003_silver.md
+      - 004 - Gold: notebooks/004_gold.md
+      - 005 - Destruindo ambiente: notebooks/005_destruindo_ambiente.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
