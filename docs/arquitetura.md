@@ -32,6 +32,13 @@ flowchart LR
     class csv source
     class landing,bronze,silver,gold layer
     class job process
+
+    style csv color:#ffffff
+    style landing color:#ffffff
+    style bronze color:#ffffff
+    style silver color:#ffffff
+    style gold color:#ffffff
+    style job color:#ffffff
 ```
 
 ## Landing

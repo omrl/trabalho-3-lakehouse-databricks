@@ -1,0 +1,13 @@
+.mermaid .node text,
+.mermaid .nodeLabel,
+.mermaid .node .label {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+}
+
+.mermaid .edgeLabel,
+.mermaid .edgeLabel text,
+.mermaid .edgeLabel .label {
+  color: #111827 !important;
+  fill: #111827 !important;
+}

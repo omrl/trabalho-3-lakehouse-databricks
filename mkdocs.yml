@@ -10,6 +10,9 @@ theme:
     - navigation.top
     - content.code.copy
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Inicio: index.md
   - Arquitetura: arquitetura.md
