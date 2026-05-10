@@ -634,7 +634,7 @@
 <h1 id="arquitetura">Arquitetura<a class="headerlink" href="#arquitetura" title="Permanent link">&para;</a></h1>
 <p>O projeto segue a Arquitetura Medalhao, uma abordagem comum em Lakehouse para organizar dados por nivel de refinamento.</p>
 <h2 id="visao-geral">Visao Geral<a class="headerlink" href="#visao-geral" title="Permanent link">&para;</a></h2>
-<div class="highlight"><pre><span></span><code>flowchart LR
+<pre class="mermaid"><code>flowchart LR
     csv[(Arquivos CSV&lt;br/&gt;Base relacional de seguros)]
     landing[(Landing&lt;br/&gt;Volume dados&lt;br/&gt;Arquivos brutos)]
     bronze[(Bronze&lt;br/&gt;Delta Lake&lt;br/&gt;Estrutura da origem)]
@@ -658,8 +658,7 @@
 
     class csv source
     class landing,bronze,silver,gold layer
-    class job process
-</code></pre></div>
+    class job process</code></pre>
 <h2 id="landing">Landing<a class="headerlink" href="#landing" title="Permanent link">&para;</a></h2>
 <p>A Landing e a camada de entrada. Nela ficam os arquivos CSV exatamente como recebidos.</p>
 <p>No Databricks, essa camada foi representada pelo schema <code>workspace.landing</code> e pelo volume <code>workspace.landing.dados</code>.</p>
