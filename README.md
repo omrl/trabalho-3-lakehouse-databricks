@@ -7,7 +7,6 @@ O fluxo implementado parte de arquivos CSV de uma base relacional de seguros, ca
 ## Documentacao
 
 - [Documentacao MkDocs publicada no GitHub Pages](https://omrl.github.io/trabalho-3-lakehouse-databricks/)
-- [Documentacao no repositorio](docs/index.md)
 
 ## Objetivo do Trabalho
 
