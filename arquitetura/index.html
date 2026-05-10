@@ -47,6 +47,8 @@
       
     
     
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -660,7 +662,14 @@ flowchart LR
 
     class csv source
     class landing,bronze,silver,gold layer
-    class job process</code></pre>
+    class job process
+
+    style csv color:#ffffff
+    style landing color:#ffffff
+    style bronze color:#ffffff
+    style silver color:#ffffff
+    style gold color:#ffffff
+    style job color:#ffffff</code></pre>
 <h2 id="landing">Landing<a class="headerlink" href="#landing" title="Permanent link">&para;</a></h2>
 <p>A Landing e a camada de entrada. Nela ficam os arquivos CSV exatamente como recebidos.</p>
 <p>No Databricks, essa camada foi representada pelo schema <code>workspace.landing</code> e pelo volume <code>workspace.landing.dados</code>.</p>
