@@ -634,7 +634,8 @@
 <h1 id="arquitetura">Arquitetura<a class="headerlink" href="#arquitetura" title="Permanent link">&para;</a></h1>
 <p>O projeto segue a Arquitetura Medalhao, uma abordagem comum em Lakehouse para organizar dados por nivel de refinamento.</p>
 <h2 id="visao-geral">Visao Geral<a class="headerlink" href="#visao-geral" title="Permanent link">&para;</a></h2>
-<pre class="mermaid"><code>flowchart LR
+<pre class="mermaid"><code>%%{init: {"theme": "base", "themeVariables": {"primaryTextColor": "#ffffff", "tertiaryTextColor": "#ffffff", "nodeTextColor": "#ffffff", "fontFamily": "Arial"}}}%%
+flowchart LR
     csv[(Arquivos CSV&lt;br/&gt;Base relacional de seguros)]
     landing[(Landing&lt;br/&gt;Volume dados&lt;br/&gt;Arquivos brutos)]
     bronze[(Bronze&lt;br/&gt;Delta Lake&lt;br/&gt;Estrutura da origem)]
@@ -655,6 +656,7 @@
     classDef source fill:#1f2937,stroke:#9ca3af,color:#ffffff
     classDef layer fill:#0f766e,stroke:#99f6e4,color:#ffffff
     classDef process fill:#f97316,stroke:#fed7aa,color:#ffffff
+    linkStyle default stroke:#475569,color:#111827
 
     class csv source
     class landing,bronze,silver,gold layer
