@@ -4,7 +4,10 @@ Projeto desenvolvido para a disciplina de Engenharia de Dados, com o objetivo de
 
 O fluxo implementado parte de arquivos CSV de uma base relacional de seguros, carrega os dados em uma camada Landing, converte os dados para Delta Lake na Bronze, aplica regras de qualidade na Silver e disponibiliza tabelas dimensionais e fato na Gold.
 
-[Documentacao completa](docs/index.md)
+## Documentacao
+
+- [Documentacao MkDocs publicada no GitHub Pages](https://omrl.github.io/trabalho-3-lakehouse-databricks/)
+- [Documentacao no repositorio](docs/index.md)
 
 ## Objetivo do Trabalho
 
@@ -172,7 +175,3 @@ Camada dimensional, voltada para analise. O modelo segue a abordagem de Ralph Ki
 - Dimensoes e fatos
 - Encadeamento de notebooks com Databricks Jobs
 - Organizacao de projeto de Engenharia de Dados
-
-## Referencia
-
-Este repositorio foi organizado tomando como referencia estrutural o projeto do Trabalho 2: <https://github.com/Xandetds/Apache-Spark-com-MINIO-e-SQL>.
