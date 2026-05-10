@@ -26,7 +26,7 @@ Cada etapa foi implementada em um notebook separado, permitindo que o pipeline s
 
 - Arquivos CSV da base em `data/csv/`.
 - Notebooks exportados em `.dbc` em `notebooks/dbc/`.
-- Versao extraida dos notebooks em `notebooks/python/`.
+- Versao extraida dos notebooks em scripts `.py` legiveis em `notebooks/python/`.
 - Documentacao em MkDocs na pasta `docs/`.
 - Arquivo `mkdocs.yml` para gerar a documentacao.
 - `README.md` explicando o projeto no GitHub.

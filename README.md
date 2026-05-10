@@ -70,7 +70,7 @@ A base representa um contexto de seguros de automoveis. Os arquivos CSV utilizad
 
 ## Notebooks
 
-Os notebooks foram exportados do Databricks em formato `.dbc` e estao em `notebooks/dbc/`. Tambem foi mantida uma versao extraida em `notebooks/python/` para facilitar a leitura do conteudo pelo GitHub.
+Os notebooks foram exportados do Databricks em formato `.dbc` e estao em `notebooks/dbc/`. Tambem foi mantida uma versao extraida em scripts `.py` legiveis em `notebooks/python/`, permitindo revisar o conteudo diretamente pelo GitHub sem importar os notebooks no Databricks.
 
 | Ordem | Notebook | Finalidade |
 | ---: | --- | --- |
