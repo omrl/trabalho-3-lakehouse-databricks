@@ -22,6 +22,7 @@ Construir um pipeline de dados no Databricks seguindo as etapas:
 ## Arquitetura
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"primaryTextColor": "#ffffff", "tertiaryTextColor": "#ffffff", "nodeTextColor": "#ffffff", "fontFamily": "Arial"}}}%%
 flowchart LR
     csv[(Arquivos CSV<br/>data/csv)]
     landing[(Landing<br/>workspace.landing.dados<br/>CSV bruto)]
@@ -43,6 +44,7 @@ flowchart LR
     classDef source fill:#1f2937,stroke:#9ca3af,color:#ffffff
     classDef layer fill:#0f766e,stroke:#99f6e4,color:#ffffff
     classDef process fill:#f97316,stroke:#fed7aa,color:#ffffff
+    linkStyle default stroke:#475569,color:#111827
 
     class csv source
     class landing,bronze,silver,gold layer
