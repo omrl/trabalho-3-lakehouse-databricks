@@ -4,39 +4,32 @@ O projeto segue a Arquitetura Medalhao, uma abordagem comum em Lakehouse para or
 
 ## Visao Geral
 
-```text
-┌─────────────────────┐
-│ Fonte Relacional     │
-│ Arquivos CSV         │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ LANDING              │
-│ Volume dados         │
-│ Arquivos brutos      │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ BRONZE               │
-│ Delta Lake           │
-│ Estrutura da origem  │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ SILVER               │
-│ Delta Lake           │
-│ Dados qualificados   │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ GOLD                 │
-│ Modelo dimensional   │
-│ Analise de negocio   │
-└─────────────────────┘
+```mermaid
+flowchart LR
+    csv[(Arquivos CSV<br/>Base relacional de seguros)]
+    landing[(Landing<br/>Volume dados<br/>Arquivos brutos)]
+    bronze[(Bronze<br/>Delta Lake<br/>Estrutura da origem)]
+    silver[(Silver<br/>Delta Lake<br/>Dados qualificados)]
+    gold[(Gold<br/>Modelo dimensional<br/>Analise de negocio)]
+    job[Databricks Job<br/>Orquestracao dos notebooks]
+
+    csv -->|Ingestao| landing
+    landing -->|Notebook 002| bronze
+    bronze -->|Notebook 003<br/>Data Quality| silver
+    silver -->|Notebook 004<br/>Dimensoes e fatos| gold
+
+    job -.-> landing
+    job -.-> bronze
+    job -.-> silver
+    job -.-> gold
+
+    classDef source fill:#1f2937,stroke:#9ca3af,color:#ffffff
+    classDef layer fill:#0f766e,stroke:#99f6e4,color:#ffffff
+    classDef process fill:#f97316,stroke:#fed7aa,color:#ffffff
+
+    class csv source
+    class landing,bronze,silver,gold layer
+    class job process
 ```
 
 ## Landing

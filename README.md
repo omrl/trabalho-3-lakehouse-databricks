@@ -19,43 +19,32 @@ Construir um pipeline de dados no Databricks seguindo as etapas:
 
 ## Arquitetura
 
-```text
-┌────────────────────┐
-│ Arquivos CSV        │
-│ data/csv/           │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ LANDING             │
-│ workspace.landing   │
-│ Volume: dados       │
-│ CSV bruto           │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ BRONZE              │
-│ workspace.bronze    │
-│ Delta Lake          │
-│ Dados como origem   │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ SILVER              │
-│ workspace.silver    │
-│ Delta Lake          │
-│ Dados tratados      │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ GOLD                │
-│ workspace.gold      │
-│ Modelo dimensional  │
-│ Dimensoes e fatos   │
-└────────────────────┘
+```mermaid
+flowchart LR
+    csv[(Arquivos CSV<br/>data/csv)]
+    landing[(Landing<br/>workspace.landing.dados<br/>CSV bruto)]
+    bronze[(Bronze<br/>workspace.bronze<br/>Delta Lake)]
+    silver[(Silver<br/>workspace.silver<br/>Dados tratados)]
+    gold[(Gold<br/>workspace.gold<br/>Modelo dimensional)]
+    job[Databricks Job<br/>Execucao encadeada]
+
+    csv -->|Upload para volume| landing
+    landing -->|Notebook 002 - Bronze| bronze
+    bronze -->|Notebook 003 - Silver<br/>Data Quality| silver
+    silver -->|Notebook 004 - Gold<br/>Kimball| gold
+
+    job -.-> landing
+    job -.-> bronze
+    job -.-> silver
+    job -.-> gold
+
+    classDef source fill:#1f2937,stroke:#9ca3af,color:#ffffff
+    classDef layer fill:#0f766e,stroke:#99f6e4,color:#ffffff
+    classDef process fill:#f97316,stroke:#fed7aa,color:#ffffff
+
+    class csv source
+    class landing,bronze,silver,gold layer
+    class job process
 ```
 
 ## Base de Dados
