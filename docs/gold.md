@@ -1,105 +1,81 @@
 # Modelo Gold
 
-A camada Gold foi construida com foco analitico, seguindo a modelagem dimensional proposta por Ralph Kimball.
+A camada Gold foi planejada com foco analitico, seguindo os principios da modelagem dimensional de Ralph Kimball.
 
 ## Objetivo
 
-Transformar os dados tratados da Silver em tabelas de facil consumo para analises de negocio.
+Transformar os dados tratados da Silver em tabelas de facil consumo para analises sobre o mercado de trabalho em inteligencia artificial.
 
 Exemplos de perguntas que a Gold pode responder:
 
-- Quantas apolices existem por periodo?
-- Qual o valor total de cobertura por cliente?
-- Quais marcas e modelos possuem mais sinistros?
-- Como os sinistros se distribuem por municipio, estado ou regiao?
-- Qual o perfil dos clientes segurados?
+- Quais cargos possuem maior media salarial?
+- Quais setores concentram mais oportunidades?
+- Como o risco de automacao varia por cargo ou industria?
+- Quais habilidades aparecem com maior frequencia?
+- Quais localidades possuem mais oportunidades remotas?
+- Como a projecao de crescimento se distribui por cargo, setor e porte da empresa?
 
 ## Dimensoes
 
-As dimensoes armazenam atributos descritivos do negocio.
+As dimensoes armazenam atributos descritivos da base.
 
-### `gold.dim_cliente`
+### `gold.dim_cargo`
 
-Representa os clientes segurados.
-
-Campos esperados:
-
-- chave substituta do cliente;
-- codigo original do cliente;
-- nome;
-- CPF;
-- sexo;
-- data de nascimento;
-- telefone;
-- endereco.
-
-### `gold.dim_carro`
-
-Representa os veiculos segurados.
+Representa os cargos analisados.
 
 Campos esperados:
 
-- chave substituta do carro;
-- placa;
-- marca;
-- modelo;
-- cor;
-- ano;
-- chassi.
+- chave substituta do cargo;
+- titulo do cargo;
+- habilidade exigida;
+- risco de automacao;
+- projecao de crescimento.
+
+### `gold.dim_empresa`
+
+Representa o contexto empresarial da oportunidade.
+
+Campos esperados:
+
+- chave substituta da empresa;
+- industria;
+- porte da empresa;
+- nivel de adocao de IA.
 
 ### `gold.dim_localidade`
 
-Representa a localizacao geografica.
+Representa a localizacao da oportunidade.
 
 Campos esperados:
 
 - chave substituta da localidade;
-- codigo do municipio;
-- municipio;
-- estado;
-- regiao.
-
-### `gold.dim_tempo`
-
-Quando utilizada, representa datas relevantes para analise, como inicio e fim de vigencia da apolice ou data de sinistro.
-
-Campos esperados:
-
-- data;
-- ano;
-- mes;
-- dia;
-- trimestre;
-- nome do mes.
+- localizacao;
+- indicador de trabalho remoto.
 
 ## Fato
 
-A tabela fato concentra eventos e medidas.
+### `gold.fato_mercado_ia`
 
-### `gold.fato_apolice_sinistro`
-
-Tabela voltada para analise de apolices e sinistros.
+Tabela voltada para analise das oportunidades do mercado de IA.
 
 Possiveis medidas:
 
-- valor de cobertura;
-- valor de franquia;
-- quantidade de apolices;
-- quantidade de sinistros.
+- salario em dolares;
+- quantidade de registros;
+- quantidade de oportunidades por cargo;
+- quantidade de oportunidades por industria;
+- quantidade de oportunidades remotas.
 
 Possiveis chaves:
 
-- cliente;
-- carro;
-- localidade;
-- data de inicio da vigencia;
-- data de fim da vigencia;
-- data do sinistro.
+- cargo;
+- empresa;
+- localidade.
 
 ## Granularidade
 
-A granularidade recomendada para a fato e uma linha por apolice e sinistro associado, preservando tambem apolices sem sinistro quando a regra de negocio exigir analise de contratos ativos.
+A granularidade recomendada para a fato e uma linha por registro original da base `ai_job_market_insights.csv`, preservando o campo `id_linha` como referencia tecnica.
 
 ## Beneficio da Modelagem
 
-Separar dimensoes e fatos reduz a complexidade das consultas e melhora a organizacao da camada analitica. A Gold fica mais proxima de um modelo de BI, facilitando consultas SQL, dashboards e indicadores.
+Separar dimensoes e fatos facilita consultas analiticas, reduz repeticao de atributos e aproxima a camada Gold de um modelo preparado para BI, dashboards e indicadores.

@@ -1,5 +1,5 @@
 ﻿# Databricks notebook source
-# Notebook: 005 - Atifidade Pratica - Lakehouse - Destruindo ambiente
+# Notebook: 006 - Atividade Pratica - Lakehouse - Destruindo ambiente
 
 # COMMAND ----------
 

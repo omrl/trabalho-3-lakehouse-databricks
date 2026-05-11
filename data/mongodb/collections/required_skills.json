@@ -1,0 +1,2502 @@
+﻿[
+    {
+        "id_linha":  1,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  2,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  3,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  4,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  5,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  6,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  7,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  8,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  9,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  10,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  11,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  12,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  13,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  14,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  15,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  16,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  17,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  18,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  19,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  20,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  21,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  22,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  23,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  24,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  25,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  26,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  27,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  28,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  29,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  30,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  31,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  32,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  33,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  34,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  35,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  36,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  37,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  38,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  39,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  40,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  41,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  42,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  43,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  44,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  45,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  46,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  47,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  48,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  49,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  50,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  51,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  52,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  53,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  54,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  55,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  56,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  57,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  58,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  59,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  60,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  61,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  62,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  63,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  64,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  65,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  66,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  67,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  68,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  69,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  70,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  71,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  72,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  73,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  74,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  75,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  76,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  77,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  78,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  79,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  80,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  81,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  82,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  83,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  84,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  85,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  86,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  87,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  88,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  89,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  90,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  91,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  92,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  93,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  94,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  95,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  96,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  97,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  98,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  99,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  100,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  101,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  102,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  103,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  104,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  105,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  106,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  107,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  108,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  109,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  110,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  111,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  112,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  113,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  114,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  115,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  116,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  117,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  118,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  119,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  120,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  121,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  122,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  123,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  124,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  125,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  126,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  127,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  128,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  129,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  130,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  131,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  132,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  133,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  134,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  135,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  136,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  137,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  138,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  139,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  140,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  141,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  142,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  143,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  144,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  145,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  146,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  147,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  148,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  149,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  150,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  151,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  152,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  153,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  154,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  155,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  156,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  157,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  158,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  159,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  160,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  161,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  162,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  163,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  164,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  165,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  166,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  167,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  168,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  169,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  170,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  171,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  172,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  173,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  174,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  175,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  176,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  177,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  178,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  179,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  180,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  181,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  182,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  183,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  184,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  185,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  186,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  187,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  188,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  189,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  190,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  191,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  192,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  193,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  194,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  195,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  196,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  197,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  198,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  199,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  200,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  201,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  202,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  203,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  204,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  205,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  206,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  207,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  208,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  209,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  210,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  211,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  212,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  213,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  214,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  215,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  216,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  217,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  218,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  219,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  220,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  221,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  222,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  223,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  224,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  225,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  226,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  227,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  228,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  229,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  230,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  231,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  232,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  233,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  234,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  235,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  236,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  237,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  238,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  239,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  240,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  241,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  242,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  243,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  244,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  245,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  246,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  247,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  248,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  249,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  250,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  251,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  252,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  253,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  254,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  255,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  256,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  257,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  258,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  259,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  260,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  261,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  262,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  263,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  264,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  265,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  266,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  267,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  268,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  269,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  270,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  271,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  272,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  273,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  274,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  275,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  276,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  277,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  278,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  279,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  280,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  281,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  282,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  283,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  284,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  285,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  286,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  287,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  288,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  289,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  290,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  291,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  292,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  293,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  294,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  295,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  296,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  297,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  298,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  299,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  300,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  301,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  302,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  303,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  304,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  305,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  306,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  307,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  308,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  309,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  310,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  311,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  312,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  313,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  314,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  315,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  316,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  317,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  318,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  319,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  320,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  321,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  322,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  323,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  324,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  325,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  326,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  327,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  328,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  329,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  330,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  331,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  332,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  333,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  334,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  335,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  336,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  337,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  338,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  339,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  340,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  341,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  342,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  343,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  344,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  345,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  346,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  347,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  348,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  349,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  350,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  351,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  352,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  353,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  354,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  355,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  356,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  357,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  358,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  359,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  360,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  361,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  362,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  363,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  364,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  365,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  366,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  367,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  368,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  369,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  370,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  371,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  372,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  373,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  374,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  375,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  376,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  377,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  378,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  379,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  380,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  381,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  382,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  383,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  384,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  385,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  386,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  387,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  388,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  389,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  390,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  391,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  392,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  393,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  394,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  395,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  396,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  397,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  398,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  399,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  400,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  401,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  402,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  403,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  404,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  405,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  406,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  407,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  408,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  409,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  410,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  411,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  412,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  413,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  414,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  415,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  416,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  417,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  418,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  419,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  420,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  421,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  422,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  423,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  424,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  425,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  426,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  427,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  428,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  429,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  430,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  431,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  432,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  433,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  434,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  435,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  436,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  437,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  438,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  439,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  440,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  441,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  442,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  443,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  444,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  445,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  446,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  447,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  448,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  449,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  450,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  451,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  452,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  453,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  454,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  455,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  456,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  457,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  458,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  459,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  460,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  461,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  462,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  463,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  464,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  465,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  466,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  467,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  468,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  469,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  470,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  471,
+        "valor":  "JavaScript",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  472,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  473,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  474,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  475,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  476,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  477,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  478,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  479,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  480,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  481,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  482,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  483,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  484,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  485,
+        "valor":  "Communication",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  486,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  487,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  488,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  489,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  490,
+        "valor":  "Marketing",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  491,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  492,
+        "valor":  "Data Analysis",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  493,
+        "valor":  "Cybersecurity",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  494,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  495,
+        "valor":  "Sales",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  496,
+        "valor":  "Machine Learning",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  497,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  498,
+        "valor":  "UX/UI Design",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  499,
+        "valor":  "Python",
+        "coluna_origem":  "Required_Skills"
+    },
+    {
+        "id_linha":  500,
+        "valor":  "Project Management",
+        "coluna_origem":  "Required_Skills"
+    }
+]

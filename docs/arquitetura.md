@@ -7,14 +7,16 @@ O projeto segue a Arquitetura Medalhao, uma abordagem comum em Lakehouse para or
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {"primaryTextColor": "#ffffff", "tertiaryTextColor": "#ffffff", "nodeTextColor": "#ffffff", "fontFamily": "Arial"}}}%%
 flowchart LR
-    csv[(Arquivos CSV<br/>Base relacional de seguros)]
+    db[(MongoDB Atlas<br/>AI Job Market Insights)]
+    json[(JSON<br/>Landing dados)]
     landing[(Landing<br/>Volume dados<br/>Arquivos brutos)]
     bronze[(Bronze<br/>Delta Lake<br/>Estrutura da origem)]
     silver[(Silver<br/>Delta Lake<br/>Dados qualificados)]
     gold[(Gold<br/>Modelo dimensional<br/>Analise de negocio)]
     job[Databricks Job<br/>Orquestracao dos notebooks]
 
-    csv -->|Ingestao| landing
+    db -->|Notebook 000<br/>Extracao| json
+    json -->|Ingestao| landing
     landing -->|Notebook 002| bronze
     bronze -->|Notebook 003<br/>Data Quality| silver
     silver -->|Notebook 004<br/>Dimensoes e fatos| gold
@@ -29,11 +31,12 @@ flowchart LR
     classDef process fill:#f97316,stroke:#fed7aa,color:#ffffff
     linkStyle default stroke:#475569,color:#111827
 
-    class csv source
+    class db,json source
     class landing,bronze,silver,gold layer
     class job process
 
-    style csv color:#ffffff
+    style json color:#ffffff
+    style db color:#ffffff
     style landing color:#ffffff
     style bronze color:#ffffff
     style silver color:#ffffff
@@ -43,7 +46,7 @@ flowchart LR
 
 ## Landing
 
-A Landing e a camada de entrada. Nela ficam os arquivos CSV exatamente como recebidos.
+A Landing e a camada de entrada. Nela ficam os arquivos JSON exatamente como recebidos do MongoDB Atlas.
 
 No Databricks, essa camada foi representada pelo schema `workspace.landing` e pelo volume `workspace.landing.dados`.
 
@@ -55,7 +58,7 @@ Responsabilidades:
 
 ## Bronze
 
-A Bronze transforma os arquivos CSV em tabelas Delta.
+A Bronze transforma os arquivos JSON em tabelas Delta.
 
 Responsabilidades:
 
@@ -87,6 +90,6 @@ Responsabilidades:
 - disponibilizar dimensoes;
 - disponibilizar tabela fato;
 - reduzir complexidade para consultas;
-- apoiar analises de apolices, clientes, veiculos e sinistros.
+- apoiar analises de cargos, setores, salarios, habilidades, localizacao, trabalho remoto, risco de automacao e crescimento do mercado.
 
 O desenho segue a abordagem dimensional de Ralph Kimball, separando entidades descritivas em dimensoes e eventos/medidas em fatos.

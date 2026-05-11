@@ -1,0 +1,2502 @@
+﻿[
+    {
+        "id_linha":  1,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  2,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  3,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  4,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  5,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  6,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  7,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  8,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  9,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  10,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  11,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  12,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  13,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  14,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  15,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  16,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  17,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  18,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  19,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  20,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  21,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  22,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  23,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  24,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  25,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  26,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  27,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  28,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  29,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  30,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  31,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  32,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  33,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  34,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  35,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  36,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  37,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  38,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  39,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  40,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  41,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  42,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  43,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  44,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  45,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  46,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  47,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  48,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  49,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  50,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  51,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  52,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  53,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  54,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  55,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  56,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  57,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  58,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  59,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  60,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  61,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  62,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  63,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  64,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  65,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  66,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  67,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  68,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  69,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  70,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  71,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  72,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  73,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  74,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  75,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  76,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  77,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  78,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  79,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  80,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  81,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  82,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  83,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  84,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  85,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  86,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  87,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  88,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  89,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  90,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  91,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  92,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  93,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  94,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  95,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  96,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  97,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  98,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  99,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  100,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  101,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  102,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  103,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  104,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  105,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  106,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  107,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  108,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  109,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  110,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  111,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  112,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  113,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  114,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  115,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  116,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  117,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  118,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  119,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  120,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  121,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  122,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  123,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  124,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  125,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  126,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  127,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  128,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  129,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  130,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  131,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  132,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  133,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  134,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  135,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  136,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  137,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  138,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  139,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  140,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  141,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  142,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  143,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  144,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  145,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  146,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  147,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  148,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  149,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  150,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  151,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  152,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  153,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  154,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  155,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  156,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  157,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  158,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  159,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  160,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  161,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  162,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  163,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  164,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  165,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  166,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  167,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  168,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  169,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  170,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  171,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  172,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  173,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  174,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  175,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  176,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  177,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  178,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  179,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  180,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  181,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  182,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  183,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  184,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  185,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  186,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  187,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  188,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  189,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  190,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  191,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  192,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  193,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  194,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  195,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  196,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  197,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  198,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  199,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  200,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  201,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  202,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  203,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  204,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  205,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  206,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  207,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  208,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  209,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  210,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  211,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  212,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  213,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  214,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  215,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  216,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  217,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  218,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  219,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  220,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  221,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  222,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  223,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  224,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  225,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  226,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  227,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  228,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  229,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  230,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  231,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  232,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  233,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  234,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  235,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  236,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  237,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  238,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  239,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  240,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  241,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  242,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  243,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  244,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  245,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  246,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  247,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  248,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  249,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  250,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  251,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  252,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  253,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  254,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  255,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  256,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  257,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  258,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  259,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  260,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  261,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  262,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  263,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  264,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  265,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  266,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  267,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  268,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  269,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  270,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  271,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  272,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  273,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  274,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  275,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  276,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  277,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  278,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  279,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  280,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  281,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  282,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  283,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  284,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  285,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  286,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  287,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  288,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  289,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  290,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  291,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  292,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  293,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  294,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  295,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  296,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  297,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  298,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  299,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  300,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  301,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  302,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  303,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  304,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  305,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  306,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  307,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  308,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  309,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  310,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  311,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  312,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  313,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  314,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  315,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  316,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  317,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  318,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  319,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  320,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  321,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  322,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  323,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  324,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  325,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  326,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  327,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  328,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  329,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  330,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  331,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  332,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  333,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  334,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  335,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  336,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  337,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  338,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  339,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  340,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  341,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  342,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  343,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  344,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  345,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  346,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  347,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  348,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  349,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  350,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  351,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  352,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  353,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  354,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  355,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  356,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  357,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  358,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  359,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  360,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  361,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  362,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  363,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  364,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  365,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  366,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  367,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  368,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  369,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  370,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  371,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  372,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  373,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  374,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  375,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  376,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  377,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  378,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  379,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  380,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  381,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  382,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  383,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  384,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  385,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  386,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  387,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  388,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  389,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  390,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  391,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  392,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  393,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  394,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  395,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  396,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  397,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  398,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  399,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  400,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  401,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  402,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  403,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  404,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  405,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  406,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  407,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  408,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  409,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  410,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  411,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  412,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  413,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  414,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  415,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  416,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  417,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  418,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  419,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  420,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  421,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  422,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  423,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  424,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  425,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  426,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  427,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  428,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  429,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  430,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  431,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  432,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  433,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  434,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  435,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  436,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  437,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  438,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  439,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  440,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  441,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  442,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  443,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  444,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  445,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  446,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  447,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  448,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  449,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  450,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  451,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  452,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  453,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  454,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  455,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  456,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  457,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  458,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  459,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  460,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  461,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  462,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  463,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  464,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  465,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  466,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  467,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  468,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  469,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  470,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  471,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  472,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  473,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  474,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  475,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  476,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  477,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  478,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  479,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  480,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  481,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  482,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  483,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  484,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  485,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  486,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  487,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  488,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  489,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  490,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  491,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  492,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  493,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  494,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  495,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  496,
+        "valor":  "Medium",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  497,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  498,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  499,
+        "valor":  "Low",
+        "coluna_origem":  "Automation_Risk"
+    },
+    {
+        "id_linha":  500,
+        "valor":  "High",
+        "coluna_origem":  "Automation_Risk"
+    }
+]

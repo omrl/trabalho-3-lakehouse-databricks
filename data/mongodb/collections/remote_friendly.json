@@ -1,0 +1,2502 @@
+﻿[
+    {
+        "id_linha":  1,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  2,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  3,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  4,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  5,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  6,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  7,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  8,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  9,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  10,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  11,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  12,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  13,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  14,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  15,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  16,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  17,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  18,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  19,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  20,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  21,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  22,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  23,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  24,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  25,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  26,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  27,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  28,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  29,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  30,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  31,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  32,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  33,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  34,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  35,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  36,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  37,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  38,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  39,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  40,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  41,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  42,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  43,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  44,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  45,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  46,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  47,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  48,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  49,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  50,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  51,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  52,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  53,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  54,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  55,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  56,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  57,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  58,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  59,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  60,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  61,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  62,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  63,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  64,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  65,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  66,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  67,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  68,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  69,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  70,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  71,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  72,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  73,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  74,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  75,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  76,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  77,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  78,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  79,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  80,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  81,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  82,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  83,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  84,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  85,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  86,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  87,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  88,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  89,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  90,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  91,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  92,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  93,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  94,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  95,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  96,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  97,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  98,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  99,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  100,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  101,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  102,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  103,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  104,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  105,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  106,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  107,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  108,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  109,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  110,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  111,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  112,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  113,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  114,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  115,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  116,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  117,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  118,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  119,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  120,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  121,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  122,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  123,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  124,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  125,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  126,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  127,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  128,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  129,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  130,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  131,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  132,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  133,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  134,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  135,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  136,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  137,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  138,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  139,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  140,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  141,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  142,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  143,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  144,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  145,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  146,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  147,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  148,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  149,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  150,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  151,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  152,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  153,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  154,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  155,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  156,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  157,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  158,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  159,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  160,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  161,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  162,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  163,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  164,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  165,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  166,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  167,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  168,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  169,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  170,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  171,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  172,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  173,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  174,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  175,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  176,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  177,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  178,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  179,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  180,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  181,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  182,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  183,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  184,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  185,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  186,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  187,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  188,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  189,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  190,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  191,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  192,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  193,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  194,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  195,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  196,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  197,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  198,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  199,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  200,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  201,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  202,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  203,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  204,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  205,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  206,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  207,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  208,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  209,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  210,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  211,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  212,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  213,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  214,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  215,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  216,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  217,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  218,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  219,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  220,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  221,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  222,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  223,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  224,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  225,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  226,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  227,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  228,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  229,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  230,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  231,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  232,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  233,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  234,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  235,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  236,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  237,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  238,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  239,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  240,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  241,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  242,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  243,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  244,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  245,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  246,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  247,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  248,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  249,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  250,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  251,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  252,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  253,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  254,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  255,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  256,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  257,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  258,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  259,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  260,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  261,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  262,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  263,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  264,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  265,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  266,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  267,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  268,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  269,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  270,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  271,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  272,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  273,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  274,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  275,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  276,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  277,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  278,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  279,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  280,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  281,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  282,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  283,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  284,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  285,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  286,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  287,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  288,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  289,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  290,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  291,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  292,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  293,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  294,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  295,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  296,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  297,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  298,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  299,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  300,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  301,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  302,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  303,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  304,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  305,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  306,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  307,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  308,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  309,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  310,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  311,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  312,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  313,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  314,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  315,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  316,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  317,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  318,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  319,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  320,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  321,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  322,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  323,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  324,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  325,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  326,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  327,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  328,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  329,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  330,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  331,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  332,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  333,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  334,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  335,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  336,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  337,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  338,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  339,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  340,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  341,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  342,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  343,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  344,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  345,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  346,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  347,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  348,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  349,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  350,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  351,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  352,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  353,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  354,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  355,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  356,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  357,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  358,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  359,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  360,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  361,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  362,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  363,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  364,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  365,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  366,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  367,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  368,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  369,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  370,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  371,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  372,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  373,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  374,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  375,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  376,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  377,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  378,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  379,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  380,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  381,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  382,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  383,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  384,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  385,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  386,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  387,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  388,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  389,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  390,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  391,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  392,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  393,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  394,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  395,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  396,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  397,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  398,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  399,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  400,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  401,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  402,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  403,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  404,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  405,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  406,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  407,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  408,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  409,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  410,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  411,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  412,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  413,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  414,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  415,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  416,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  417,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  418,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  419,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  420,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  421,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  422,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  423,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  424,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  425,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  426,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  427,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  428,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  429,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  430,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  431,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  432,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  433,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  434,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  435,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  436,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  437,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  438,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  439,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  440,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  441,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  442,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  443,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  444,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  445,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  446,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  447,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  448,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  449,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  450,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  451,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  452,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  453,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  454,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  455,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  456,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  457,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  458,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  459,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  460,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  461,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  462,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  463,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  464,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  465,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  466,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  467,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  468,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  469,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  470,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  471,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  472,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  473,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  474,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  475,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  476,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  477,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  478,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  479,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  480,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  481,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  482,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  483,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  484,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  485,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  486,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  487,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  488,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  489,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  490,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  491,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  492,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  493,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  494,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  495,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  496,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  497,
+        "valor":  "No",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  498,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  499,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    },
+    {
+        "id_linha":  500,
+        "valor":  "Yes",
+        "coluna_origem":  "Remote_Friendly"
+    }
+]

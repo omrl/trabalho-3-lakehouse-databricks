@@ -1,0 +1,2502 @@
+﻿[
+    {
+        "id_linha":  1,
+        "valor":  "111392.16524315962",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  2,
+        "valor":  "93792.56246610906",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  3,
+        "valor":  "107170.26306894995",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  4,
+        "valor":  "93027.95375786415",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  5,
+        "valor":  "87752.92217059238",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  6,
+        "valor":  "102825.00786656779",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  7,
+        "valor":  "102065.72067347592",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  8,
+        "valor":  "86607.3176180969",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  9,
+        "valor":  "75015.86084571481",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  10,
+        "valor":  "96834.57829480869",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  11,
+        "valor":  "91566.97337925188",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  12,
+        "valor":  "78902.56574458485",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  13,
+        "valor":  "73151.99034926406",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  14,
+        "valor":  "98209.51687788912",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  15,
+        "valor":  "101001.90114055389",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  16,
+        "valor":  "82799.35770690278",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  17,
+        "valor":  "78401.25928174148",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  18,
+        "valor":  "73394.89621925619",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  19,
+        "valor":  "97645.09878289838",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  20,
+        "valor":  "73920.45852718527",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  21,
+        "valor":  "134822.69138041462",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  22,
+        "valor":  "81794.37128058006",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  23,
+        "valor":  "41495.71444254798",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  24,
+        "valor":  "89396.5666674173",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  25,
+        "valor":  "88539.33040362394",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  26,
+        "valor":  "112234.37135048377",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  27,
+        "valor":  "95762.52473455408",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  28,
+        "valor":  "73323.29633120395",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  29,
+        "valor":  "84272.16253006447",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  30,
+        "valor":  "96548.39543301976",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  31,
+        "valor":  "46705.714993791786",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  32,
+        "valor":  "116772.43468780901",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  33,
+        "valor":  "73376.6022839067",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  34,
+        "valor":  "118340.87641895234",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  35,
+        "valor":  "97849.30282253177",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  36,
+        "valor":  "102591.88272787949",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  37,
+        "valor":  "112988.46872002544",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  38,
+        "valor":  "101462.64105384996",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  39,
+        "valor":  "103457.72432634902",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  40,
+        "valor":  "86711.67119077238",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  41,
+        "valor":  "97443.3736294419",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  42,
+        "valor":  "78250.04370056515",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  43,
+        "valor":  "83131.77800824065",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  44,
+        "valor":  "129293.90095937817",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  45,
+        "valor":  "73836.12829899156",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  46,
+        "valor":  "93086.34253272561",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  47,
+        "valor":  "92269.38073430952",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  48,
+        "valor":  "83784.91056438402",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  49,
+        "valor":  "100288.01873140875",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  50,
+        "valor":  "101794.44185482766",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  51,
+        "valor":  "71483.61633704841",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  52,
+        "valor":  "92027.13423093103",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  53,
+        "valor":  "68352.65322455287",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  54,
+        "valor":  "105770.97236634602",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  55,
+        "valor":  "93529.74620725251",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  56,
+        "valor":  "91646.59773434175",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  57,
+        "valor":  "103180.62697744806",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  58,
+        "valor":  "84489.79419063198",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  59,
+        "valor":  "108280.43918436409",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  60,
+        "valor":  "71031.10254487729",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  61,
+        "valor":  "118237.53037789055",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  62,
+        "valor":  "78981.77634890293",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  63,
+        "valor":  "56076.41864608825",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  64,
+        "valor":  "83429.30183074536",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  65,
+        "valor":  "81160.63605491581",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  66,
+        "valor":  "83278.52027699928",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  67,
+        "valor":  "94632.96030967965",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  68,
+        "valor":  "111956.84721776545",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  69,
+        "valor":  "86165.88172205727",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  70,
+        "valor":  "76167.64860362199",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  71,
+        "valor":  "67469.06375432406",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  72,
+        "valor":  "80636.34417381912",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  73,
+        "valor":  "52243.50321499295",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  74,
+        "valor":  "75497.33812967277",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  75,
+        "valor":  "114881.07791724373",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  76,
+        "valor":  "73532.81590843154",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  77,
+        "valor":  "102574.31721600611",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  78,
+        "valor":  "65470.358203830205",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  79,
+        "valor":  "125421.91798621108",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  80,
+        "valor":  "126752.1346612942",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  81,
+        "valor":  "101820.43113119753",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  82,
+        "valor":  "129825.05203287043",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  83,
+        "valor":  "97115.85949855324",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  84,
+        "valor":  "105370.34228299113",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  85,
+        "valor":  "115238.6775346307",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  86,
+        "valor":  "93594.36906196899",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  87,
+        "valor":  "58952.450768298775",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  88,
+        "valor":  "105779.26710468795",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  89,
+        "valor":  "80562.80811133073",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  90,
+        "valor":  "82049.4035808908",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  91,
+        "valor":  "95957.8983295738",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  92,
+        "valor":  "101325.61759434741",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  93,
+        "valor":  "93002.69268012437",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  94,
+        "valor":  "102714.59072314618",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  95,
+        "valor":  "75862.85731879607",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  96,
+        "valor":  "89145.92410553433",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  97,
+        "valor":  "106981.70900901742",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  98,
+        "valor":  "125455.82352873433",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  99,
+        "valor":  "132528.71177946418",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  100,
+        "valor":  "98659.53365455463",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  101,
+        "valor":  "106800.19653491215",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  102,
+        "valor":  "129631.58329630381",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  103,
+        "valor":  "76583.27926533011",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  104,
+        "valor":  "102593.99705425167",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  105,
+        "valor":  "105366.85898972292",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  106,
+        "valor":  "118957.22872153489",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  107,
+        "valor":  "67257.17238927555",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  108,
+        "valor":  "71211.88432398967",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  109,
+        "valor":  "90427.64422209412",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  110,
+        "valor":  "97554.55324643271",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  111,
+        "valor":  "112457.27907467616",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  112,
+        "valor":  "100350.87551624542",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  113,
+        "valor":  "86971.73539779433",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  114,
+        "valor":  "98329.22889512281",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  115,
+        "valor":  "96020.88952548904",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  116,
+        "valor":  "124900.32859975577",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  117,
+        "valor":  "93313.17887137065",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  118,
+        "valor":  "82338.33172894873",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  119,
+        "valor":  "98992.18060143659",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  120,
+        "valor":  "93969.70638677065",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  121,
+        "valor":  "58580.13288650656",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  122,
+        "valor":  "89686.95876755661",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  123,
+        "valor":  "87985.23509187989",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  124,
+        "valor":  "79122.56268441367",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  125,
+        "valor":  "110711.66575245945",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  126,
+        "valor":  "74286.40806776009",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  127,
+        "valor":  "99112.37239049077",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  128,
+        "valor":  "87042.86000312539",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  129,
+        "valor":  "92153.90011293565",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  130,
+        "valor":  "98235.72582091735",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  131,
+        "valor":  "63848.51232217997",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  132,
+        "valor":  "93833.21783469566",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  133,
+        "valor":  "135778.94979426413",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  134,
+        "valor":  "58864.73308242552",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  135,
+        "valor":  "88847.84072568991",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  136,
+        "valor":  "112464.7864964764",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  137,
+        "valor":  "96032.38495907193",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  138,
+        "valor":  "103759.33904232067",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  139,
+        "valor":  "42486.67977814768",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  140,
+        "valor":  "101964.987492599",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  141,
+        "valor":  "74766.23587532803",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  142,
+        "valor":  "96197.54569166293",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  143,
+        "valor":  "89411.30538181018",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  144,
+        "valor":  "135566.66058323265",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  145,
+        "valor":  "100933.9064753175",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  146,
+        "valor":  "87747.52341474428",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  147,
+        "valor":  "59806.144814928906",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  148,
+        "valor":  "92422.93803699793",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  149,
+        "valor":  "106464.57756693645",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  150,
+        "valor":  "88388.96216361554",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  151,
+        "valor":  "79886.87280125119",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  152,
+        "valor":  "78548.26672307363",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  153,
+        "valor":  "100702.82870910641",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  154,
+        "valor":  "105187.75878618314",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  155,
+        "valor":  "117224.20230642238",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  156,
+        "valor":  "70100.00213579283",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  157,
+        "valor":  "100519.55116835234",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  158,
+        "valor":  "87565.92091164265",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  159,
+        "valor":  "88155.31590733438",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  160,
+        "valor":  "98036.51708068003",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  161,
+        "valor":  "98153.12507249895",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  162,
+        "valor":  "100575.36211583146",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  163,
+        "valor":  "68850.5761560838",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  164,
+        "valor":  "75003.77185667082",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  165,
+        "valor":  "119717.36551035367",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  166,
+        "valor":  "85588.5506503832",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  167,
+        "valor":  "96120.28796035793",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  168,
+        "valor":  "111093.32624086371",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  169,
+        "valor":  "99268.86144721638",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  170,
+        "valor":  "100930.45261944078",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  171,
+        "valor":  "107891.55358487513",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  172,
+        "valor":  "47666.72478206",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  173,
+        "valor":  "80200.99689678931",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  174,
+        "valor":  "99372.11592999184",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  175,
+        "valor":  "117752.88614115314",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  176,
+        "valor":  "91321.91119311546",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  177,
+        "valor":  "73105.67076487809",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  178,
+        "valor":  "73638.27900778996",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  179,
+        "valor":  "107677.22406906149",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  180,
+        "valor":  "85644.52835216226",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  181,
+        "valor":  "89855.99908419327",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  182,
+        "valor":  "102300.60387544638",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  183,
+        "valor":  "31969.52634612842",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  184,
+        "valor":  "130007.35023016162",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  185,
+        "valor":  "75378.52329897878",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  186,
+        "valor":  "94838.72738947143",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  187,
+        "valor":  "55906.05973007458",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  188,
+        "valor":  "81549.17779189924",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  189,
+        "valor":  "114893.76092730193",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  190,
+        "valor":  "51676.65640668242",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  191,
+        "valor":  "112524.00174378282",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  192,
+        "valor":  "84526.07807535231",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  193,
+        "valor":  "99743.28880440384",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  194,
+        "valor":  "103150.48826970221",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  195,
+        "valor":  "98828.42998981851",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  196,
+        "valor":  "72700.98696738348",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  197,
+        "valor":  "82709.01706929953",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  198,
+        "valor":  "60768.876454983685",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  199,
+        "valor":  "99835.9266317616",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  200,
+        "valor":  "124041.10308031851",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  201,
+        "valor":  "53511.18226647075",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  202,
+        "valor":  "74767.0818772393",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  203,
+        "valor":  "86364.49448234134",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  204,
+        "valor":  "93466.82847427108",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  205,
+        "valor":  "107583.52602868853",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  206,
+        "valor":  "86956.00039284666",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  207,
+        "valor":  "83680.825471087",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  208,
+        "valor":  "112062.61412139481",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  209,
+        "valor":  "103239.91134126611",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  210,
+        "valor":  "100779.55951402197",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  211,
+        "valor":  "92250.31423176228",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  212,
+        "valor":  "109663.04421839718",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  213,
+        "valor":  "76873.81217539468",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  214,
+        "valor":  "74146.11435627844",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  215,
+        "valor":  "104922.01973738648",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  216,
+        "valor":  "57499.280615061834",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  217,
+        "valor":  "91843.59019272974",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  218,
+        "valor":  "83668.83295474976",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  219,
+        "valor":  "61884.90538694088",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  220,
+        "valor":  "71374.64840567471",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  221,
+        "valor":  "87820.47815409301",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  222,
+        "valor":  "110679.26512998046",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  223,
+        "valor":  "76940.84017484378",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  224,
+        "valor":  "114267.62799809987",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  225,
+        "valor":  "91263.58455113033",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  226,
+        "valor":  "116207.69404339942",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  227,
+        "valor":  "77910.16782439903",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  228,
+        "valor":  "89023.80823789263",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  229,
+        "valor":  "97369.6720667399",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  230,
+        "valor":  "86409.79074516977",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  231,
+        "valor":  "109060.48294290472",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  232,
+        "valor":  "45848.72549419468",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  233,
+        "valor":  "138448.1107757988",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  234,
+        "valor":  "107155.49213990325",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  235,
+        "valor":  "86529.36341929967",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  236,
+        "valor":  "78953.56652845311",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  237,
+        "valor":  "72671.58777102892",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  238,
+        "valor":  "102912.30948339474",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  239,
+        "valor":  "109899.63337584707",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  240,
+        "valor":  "86749.477437402",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  241,
+        "valor":  "112139.80825957005",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  242,
+        "valor":  "71854.79906477756",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  243,
+        "valor":  "68323.78300026328",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  244,
+        "valor":  "126266.82410491098",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  245,
+        "valor":  "101822.17227077085",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  246,
+        "valor":  "117936.96403626655",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  247,
+        "valor":  "72921.20583224614",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  248,
+        "valor":  "71529.49216462541",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  249,
+        "valor":  "82827.81361084916",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  250,
+        "valor":  "73518.82316921977",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  251,
+        "valor":  "104107.30420456902",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  252,
+        "valor":  "74977.47886147109",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  253,
+        "valor":  "66566.60283865419",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  254,
+        "valor":  "92840.30824510465",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  255,
+        "valor":  "64200.276483495734",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  256,
+        "valor":  "54010.72137049221",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  257,
+        "valor":  "92665.14467722556",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  258,
+        "valor":  "55015.5991397958",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  259,
+        "valor":  "105505.58792590846",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  260,
+        "valor":  "62093.32547494408",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  261,
+        "valor":  "45186.52427160505",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  262,
+        "valor":  "84124.06699718411",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  263,
+        "valor":  "92891.89006592969",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  264,
+        "valor":  "99829.50127363882",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  265,
+        "valor":  "93440.31398031706",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  266,
+        "valor":  "68813.74757764515",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  267,
+        "valor":  "104261.22361853208",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  268,
+        "valor":  "109202.77012959492",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  269,
+        "valor":  "65884.75743088922",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  270,
+        "valor":  "86379.87722680772",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  271,
+        "valor":  "84511.1994578196",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  272,
+        "valor":  "94407.63165576068",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  273,
+        "valor":  "85901.52416451782",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  274,
+        "valor":  "88642.44455854046",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  275,
+        "valor":  "102836.31060483382",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  276,
+        "valor":  "67722.93800797733",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  277,
+        "valor":  "104747.46270521649",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  278,
+        "valor":  "112822.65463062502",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  279,
+        "valor":  "122682.69986977737",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  280,
+        "valor":  "47132.65351725282",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  281,
+        "valor":  "86341.96685769563",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  282,
+        "valor":  "50697.98851292822",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  283,
+        "valor":  "41298.72620454353",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  284,
+        "valor":  "92881.86095214957",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  285,
+        "valor":  "82016.96414299277",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  286,
+        "valor":  "95997.01903541492",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  287,
+        "valor":  "99722.55380174631",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  288,
+        "valor":  "114957.91916215842",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  289,
+        "valor":  "91078.4085061156",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  290,
+        "valor":  "148467.11234638176",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  291,
+        "valor":  "96128.19709970425",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  292,
+        "valor":  "126849.58089134423",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  293,
+        "valor":  "43343.24398951503",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  294,
+        "valor":  "116994.7905910125",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  295,
+        "valor":  "86384.7902040888",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  296,
+        "valor":  "51033.05481145457",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  297,
+        "valor":  "98410.9021845624",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  298,
+        "valor":  "83940.88924031366",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  299,
+        "valor":  "101601.06496896285",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  300,
+        "valor":  "110221.52915102156",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  301,
+        "valor":  "60216.99766476808",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  302,
+        "valor":  "110298.37964910315",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  303,
+        "valor":  "90129.58968441433",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  304,
+        "valor":  "117056.82349386545",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  305,
+        "valor":  "85897.03542004264",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  306,
+        "valor":  "80591.82214937158",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  307,
+        "valor":  "90541.08081377903",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  308,
+        "valor":  "92037.21412759706",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  309,
+        "valor":  "76744.30397016529",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  310,
+        "valor":  "80073.90538089433",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  311,
+        "valor":  "65462.48930972422",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  312,
+        "valor":  "81307.09820419611",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  313,
+        "valor":  "103526.20119995158",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  314,
+        "valor":  "87252.91652187712",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  315,
+        "valor":  "110181.30592094656",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  316,
+        "valor":  "86291.41064693853",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  317,
+        "valor":  "61369.64004553371",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  318,
+        "valor":  "101945.49775113165",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  319,
+        "valor":  "76527.53717933195",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  320,
+        "valor":  "85332.65422472931",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  321,
+        "valor":  "114751.44094968235",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  322,
+        "valor":  "66782.59080556972",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  323,
+        "valor":  "93294.8757492877",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  324,
+        "valor":  "89189.63299928416",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  325,
+        "valor":  "104018.51430874206",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  326,
+        "valor":  "107103.06730964045",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  327,
+        "valor":  "95276.78008497784",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  328,
+        "valor":  "82792.507068392",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  329,
+        "valor":  "99467.45008051921",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  330,
+        "valor":  "116713.11794289124",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  331,
+        "valor":  "89454.20120720599",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  332,
+        "valor":  "84654.87771153946",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  333,
+        "valor":  "97763.40515335981",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  334,
+        "valor":  "90774.54040739224",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  335,
+        "valor":  "63245.81152164402",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  336,
+        "valor":  "94786.61600794963",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  337,
+        "valor":  "63064.75182472472",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  338,
+        "valor":  "97489.6129281689",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  339,
+        "valor":  "74057.14551186866",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  340,
+        "valor":  "90737.49608372692",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  341,
+        "valor":  "97811.87812398473",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  342,
+        "valor":  "139078.06691887142",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  343,
+        "valor":  "104854.99923573849",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  344,
+        "valor":  "117295.97619484669",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  345,
+        "valor":  "127434.9563738785",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  346,
+        "valor":  "99785.1183399889",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  347,
+        "valor":  "95713.79600534399",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  348,
+        "valor":  "68665.57782347569",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  349,
+        "valor":  "87667.40135199211",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  350,
+        "valor":  "75538.24540728275",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  351,
+        "valor":  "81978.82299751228",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  352,
+        "valor":  "127413.26752384937",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  353,
+        "valor":  "92292.4301839998",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  354,
+        "valor":  "72482.00844567783",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  355,
+        "valor":  "117490.66909382609",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  356,
+        "valor":  "109105.50952474898",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  357,
+        "valor":  "110153.06985200793",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  358,
+        "valor":  "49877.395937952104",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  359,
+        "valor":  "128973.41915442972",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  360,
+        "valor":  "78829.70515812226",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  361,
+        "valor":  "105559.0954558551",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  362,
+        "valor":  "140475.99581234064",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  363,
+        "valor":  "133106.65496381235",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  364,
+        "valor":  "70448.75749054627",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  365,
+        "valor":  "61109.65325995454",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  366,
+        "valor":  "118606.93197695856",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  367,
+        "valor":  "92841.11623187999",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  368,
+        "valor":  "79982.3711739584",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  369,
+        "valor":  "102424.37093878095",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  370,
+        "valor":  "86742.40845081118",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  371,
+        "valor":  "104026.48274097487",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  372,
+        "valor":  "91339.63615637466",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  373,
+        "valor":  "104447.75856656334",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  374,
+        "valor":  "72109.34621727222",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  375,
+        "valor":  "118489.24026265269",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  376,
+        "valor":  "103952.46741464877",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  377,
+        "valor":  "102925.94738807145",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  378,
+        "valor":  "67646.60145976013",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  379,
+        "valor":  "123992.64833288494",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  380,
+        "valor":  "89725.67801267463",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  381,
+        "valor":  "104560.97724859683",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  382,
+        "valor":  "83543.51072506783",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  383,
+        "valor":  "95217.78129364195",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  384,
+        "valor":  "95942.54704238809",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  385,
+        "valor":  "33601.38135993158",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  386,
+        "valor":  "101648.96249309662",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  387,
+        "valor":  "129306.82923444168",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  388,
+        "valor":  "100795.60517983914",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  389,
+        "valor":  "70845.83502220524",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  390,
+        "valor":  "102999.23132307774",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  391,
+        "valor":  "111189.61060346678",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  392,
+        "valor":  "100249.33032380774",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  393,
+        "valor":  "88517.45787139912",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  394,
+        "valor":  "85157.01548352139",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  395,
+        "valor":  "85073.80489266386",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  396,
+        "valor":  "103955.53802022425",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  397,
+        "valor":  "61857.520098807436",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  398,
+        "valor":  "82562.53678289187",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  399,
+        "valor":  "121912.19646021897",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  400,
+        "valor":  "122683.90533154352",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  401,
+        "valor":  "60437.05824396676",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  402,
+        "valor":  "67371.72777472783",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  403,
+        "valor":  "84587.58840944126",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  404,
+        "valor":  "107851.79034228704",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  405,
+        "valor":  "53450.51291894019",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  406,
+        "valor":  "88903.82730165044",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  407,
+        "valor":  "80516.4168684071",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  408,
+        "valor":  "116519.29348570466",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  409,
+        "valor":  "56461.830520614916",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  410,
+        "valor":  "91850.81230987245",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  411,
+        "valor":  "82127.81125302812",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  412,
+        "valor":  "119395.97852554577",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  413,
+        "valor":  "101953.052927065",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  414,
+        "valor":  "78283.6868148453",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  415,
+        "valor":  "107067.72886658164",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  416,
+        "valor":  "82223.42293382852",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  417,
+        "valor":  "109986.59422479507",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  418,
+        "valor":  "85258.46018228843",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  419,
+        "valor":  "111093.33157537527",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  420,
+        "valor":  "98721.639102545",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  421,
+        "valor":  "155209.82161382848",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  422,
+        "valor":  "88942.07989167991",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  423,
+        "valor":  "97657.24583242898",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  424,
+        "valor":  "80411.50516568137",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  425,
+        "valor":  "90053.70681509557",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  426,
+        "valor":  "35963.29731701118",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  427,
+        "valor":  "99311.68033082064",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  428,
+        "valor":  "116857.48425898823",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  429,
+        "valor":  "97932.60009198709",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  430,
+        "valor":  "63722.77084045245",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  431,
+        "valor":  "73964.25694581997",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  432,
+        "valor":  "41396.15745687459",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  433,
+        "valor":  "109578.48013730848",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  434,
+        "valor":  "69869.7341458084",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  435,
+        "valor":  "89425.82819575544",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  436,
+        "valor":  "86925.2485534556",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  437,
+        "valor":  "119754.54071316533",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  438,
+        "valor":  "91705.62635931477",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  439,
+        "valor":  "106177.8584021202",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  440,
+        "valor":  "100929.27528295325",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  441,
+        "valor":  "117188.22839922798",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  442,
+        "valor":  "85217.52610994082",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  443,
+        "valor":  "127392.30661009034",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  444,
+        "valor":  "50286.7568720137",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  445,
+        "valor":  "107149.46996002473",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  446,
+        "valor":  "72667.60782671736",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  447,
+        "valor":  "80145.00894440095",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  448,
+        "valor":  "101388.28533802071",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  449,
+        "valor":  "101228.04099695486",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  450,
+        "valor":  "102128.56027380143",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  451,
+        "valor":  "62276.84111789524",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  452,
+        "valor":  "118980.6046255848",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  453,
+        "valor":  "71987.05763544649",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  454,
+        "valor":  "74654.25819549602",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  455,
+        "valor":  "102757.93476333657",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  456,
+        "valor":  "84265.57650477519",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  457,
+        "valor":  "96165.21681124983",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  458,
+        "valor":  "46867.98606734424",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  459,
+        "valor":  "95686.48899038463",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  460,
+        "valor":  "94356.6375902443",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  461,
+        "valor":  "79802.82924471433",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  462,
+        "valor":  "48518.48080470421",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  463,
+        "valor":  "85743.8347703679",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  464,
+        "valor":  "89252.52280402774",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  465,
+        "valor":  "82655.4201933901",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  466,
+        "valor":  "53276.51071135004",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  467,
+        "valor":  "121894.68014633832",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  468,
+        "valor":  "77222.76944111254",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  469,
+        "valor":  "85555.90674154198",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  470,
+        "valor":  "41810.51357563419",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  471,
+        "valor":  "121897.10697396414",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  472,
+        "valor":  "80669.00136531888",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  473,
+        "valor":  "91969.25634148406",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  474,
+        "valor":  "112414.74889633303",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  475,
+        "valor":  "76473.91590566748",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  476,
+        "valor":  "109264.89974773089",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  477,
+        "valor":  "48773.49088117717",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  478,
+        "valor":  "101019.73315142626",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  479,
+        "valor":  "121444.84333039305",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  480,
+        "valor":  "78391.66305563941",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  481,
+        "valor":  "112377.63240596798",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  482,
+        "valor":  "126678.45304387566",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  483,
+        "valor":  "84903.16323891962",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  484,
+        "valor":  "83249.43428300279",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  485,
+        "valor":  "72034.12508335392",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  486,
+        "valor":  "79805.39689629733",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  487,
+        "valor":  "73692.80219454759",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  488,
+        "valor":  "72017.77803145545",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  489,
+        "valor":  "113976.70593422712",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  490,
+        "valor":  "74201.47949423481",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  491,
+        "valor":  "95170.43829439246",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  492,
+        "valor":  "90764.66870432475",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  493,
+        "valor":  "119961.89125142245",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  494,
+        "valor":  "79936.87535889974",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  495,
+        "valor":  "97622.96093308645",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  496,
+        "valor":  "105821.39404552219",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  497,
+        "valor":  "119794.99214641162",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  498,
+        "valor":  "79644.93309909466",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  499,
+        "valor":  "77642.1506253524",
+        "coluna_origem":  "Salary_USD"
+    },
+    {
+        "id_linha":  500,
+        "valor":  "68764.37892079895",
+        "coluna_origem":  "Salary_USD"
+    }
+]

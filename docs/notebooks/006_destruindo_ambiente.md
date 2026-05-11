@@ -1,4 +1,4 @@
-# 005 - Destruindo Ambiente
+﻿# 006 - Destruindo Ambiente
 
 Este notebook remove objetos criados pelo projeto.
 
@@ -19,3 +19,5 @@ Executar esse notebook pode apagar tabelas, volumes ou schemas usados pelos dema
 ## Papel no Projeto
 
 O notebook de destruicao ajuda no ciclo de desenvolvimento, permitindo recriar o ambiente de forma limpa antes de uma nova execucao completa.
+
+

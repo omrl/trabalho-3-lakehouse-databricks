@@ -1,8 +1,8 @@
-# Lakehouse com Databricks Free Edition e Arquitetura Medalhao
+﻿# Lakehouse com Databricks Free Edition e Arquitetura Medalhao
 
 Projeto desenvolvido para a disciplina de Engenharia de Dados, com o objetivo de construir um pipeline Lakehouse no Databricks Free Edition utilizando a Arquitetura Medalhão.
 
-O fluxo implementado parte de arquivos CSV de uma base relacional de seguros, carrega os dados em uma camada Landing, converte os dados para Delta Lake na Bronze, aplica regras de qualidade na Silver e disponibiliza tabelas dimensionais e fato na Gold.
+O fluxo implementado parte de uma base não relacional no MongoDB Atlas criada a partir do arquivo `ai_job_market_insights.csv`, uma base sobre mercado de trabalho em IA. Cada coluna do arquivo original foi carregada como uma collection no MongoDB, mantendo todas as linhas por meio do campo `id_linha`. A primeira etapa do pipeline extrai todas as collections desse banco e grava arquivos JSON na Landing.
 
 ## Documentacao
 
@@ -12,9 +12,9 @@ O fluxo implementado parte de arquivos CSV de uma base relacional de seguros, ca
 
 Construir um pipeline de dados no Databricks seguindo as etapas:
 
-1. Extrair dados de todas as tabelas de uma base relacional.
-2. Armazenar os arquivos brutos no schema `landing`, dentro do volume `dados`.
-3. Ler os arquivos CSV da Landing e gravar tabelas Delta no schema `bronze`.
+1. Extrair dados de todas as collections de um banco não relacional.
+2. Armazenar os arquivos brutos em JSON no schema `landing`, dentro do volume `dados`.
+3. Ler os arquivos JSON da Landing e gravar tabelas Delta no schema `bronze`.
 4. Ler a Bronze, aplicar tratamentos e regras de qualidade, e gravar no schema `silver`.
 5. Ler a Silver e criar uma camada dimensional no schema `gold`, seguindo os conceitos de Ralph Kimball.
 6. Encadear todos os notebooks em uma Job no Databricks.
@@ -24,17 +24,19 @@ Construir um pipeline de dados no Databricks seguindo as etapas:
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {"primaryTextColor": "#ffffff", "tertiaryTextColor": "#ffffff", "nodeTextColor": "#ffffff", "fontFamily": "Arial"}}}%%
 flowchart LR
-    csv[(Arquivos CSV<br/>data/csv)]
-    landing[(Landing<br/>workspace.landing.dados<br/>CSV bruto)]
+    db[(MongoDB Atlas<br/>Database ai_job_market)]
+    json[(JSON<br/>workspace.landing.dados)]
+    landing[(Landing<br/>workspace.landing.dados<br/>JSON bruto)]
     bronze[(Bronze<br/>workspace.bronze<br/>Delta Lake)]
     silver[(Silver<br/>workspace.silver<br/>Dados tratados)]
     gold[(Gold<br/>workspace.gold<br/>Modelo dimensional)]
     job[Databricks Job<br/>Execucao encadeada]
 
-    csv -->|Upload para volume| landing
-    landing -->|Notebook 002 - Bronze| bronze
-    bronze -->|Notebook 003 - Silver<br/>Data Quality| silver
-    silver -->|Notebook 004 - Gold<br/>Kimball| gold
+    db -->|Notebook 002 - Extracao| json
+    json -->|Arquivos brutos| landing
+    landing -->|Notebook 003 - Bronze| bronze
+    bronze -->|Notebook 004 - Silver<br/>Data Quality| silver
+    silver -->|Notebook 005 - Gold<br/>Kimball| gold
 
     job -.-> landing
     job -.-> bronze
@@ -46,11 +48,12 @@ flowchart LR
     classDef process fill:#f97316,stroke:#fed7aa,color:#ffffff
     linkStyle default stroke:#475569,color:#111827
 
-    class csv source
+    class db,json source
     class landing,bronze,silver,gold layer
     class job process
 
-    style csv color:#ffffff
+    style json color:#ffffff
+    style db color:#ffffff
     style landing color:#ffffff
     style bronze color:#ffffff
     style silver color:#ffffff
@@ -60,54 +63,64 @@ flowchart LR
 
 ## Base de Dados
 
-A base representa um contexto de seguros de automoveis. Os arquivos CSV utilizados estao em `data/csv/`.
+A base original e o arquivo `ai_job_market_insights.csv`, armazenado em `data/raw/`. Ele possui 500 registros e 10 colunas sobre cargos, setores, salarios, localizacao, habilidades exigidas, nivel de adocao de IA, risco de automacao e projecao de crescimento.
 
-| Arquivo | Registros | Descricao |
+Esse arquivo foi preparado para carga no MongoDB Atlas por meio dos arquivos JSON em `data/mongodb/collections/`. Cada coluna vira uma collection no banco `ai_job_market`. O notebook `002 - Extracao` le essas collections e gera os JSONs da Landing.
+
+Cada documento JSON contem:
+
+- `id_linha`: identificador da linha original;
+- a coluna extraida da fonte original.
+
+| Collection / Arquivo | Registros | Coluna original |
 | --- | ---: | --- |
-| `cliente.csv` | 20.010 | Clientes segurados |
-| `telefone.csv` | 20.010 | Telefones dos clientes |
-| `endereco.csv` | 20.010 | Enderecos dos clientes |
-| `apolice.csv` | 10.000 | Apolices contratadas |
-| `carro.csv` | 10.002 | Veiculos segurados |
-| `sinistro.csv` | 10.000 | Ocorrencias de sinistro |
-| `marca.csv` | 10 | Marcas dos veiculos |
-| `modelo.csv` | 100 | Modelos dos veiculos |
-| `municipio.csv` | 5.570 | Municipios brasileiros |
-| `estado.csv` | 27 | Estados brasileiros |
-| `regiao.csv` | 5 | Regioes brasileiras |
+| `job_title` | 500 | `Job_Title` |
+| `industry` | 500 | `Industry` |
+| `company_size` | 500 | `Company_Size` |
+| `location` | 500 | `Location` |
+| `ai_adoption_level` | 500 | `AI_Adoption_Level` |
+| `automation_risk` | 500 | `Automation_Risk` |
+| `required_skills` | 500 | `Required_Skills` |
+| `salary_usd` | 500 | `Salary_USD` |
+| `remote_friendly` | 500 | `Remote_Friendly` |
+| `job_growth_projection` | 500 | `Job_Growth_Projection` |
 
 ## Notebooks
 
-Os notebooks foram exportados do Databricks em formato `.dbc` e estao em `notebooks/dbc/`. Tambem foi mantida uma versao extraida em scripts `.py` legiveis em `notebooks/python/`, permitindo revisar o conteudo diretamente pelo GitHub sem importar os notebooks no Databricks.
+Os notebooks estao em scripts `.py` legiveis em `notebooks/python/`. Esse formato pode ser revisado diretamente pelo GitHub e tambem pode ser importado no Databricks como notebook.
 
 | Ordem | Notebook | Finalidade |
 | ---: | --- | --- |
 | 1 | `001 - Preparando ambiente` | Cria schemas e volume do projeto |
-| 2 | `002 - Bronze` | Le CSVs da Landing e cria tabelas Delta na Bronze |
-| 3 | `003 - Silver` | Aplica tratamentos e Data Quality |
-| 4 | `004 - Gold` | Cria dimensoes e fato no modelo dimensional |
-| 5 | `005 - Destruindo ambiente` | Remove objetos criados, quando necessario |
+| 2 | `002 - Extracao` | Extrai collections do MongoDB Atlas para JSON na Landing |
+| 3 | `003 - Bronze` | Le JSONs da Landing e cria tabelas Delta na Bronze |
+| 4 | `004 - Silver` | Aplica tratamentos e Data Quality |
+| 5 | `005 - Gold` | Cria dimensoes e fato no modelo dimensional |
+| 6 | `006 - Destruindo ambiente` | Remove objetos criados, quando necessario |
 
 ## Execucao no Databricks
 
 1. Acesse o Databricks Free Edition.
-2. Importe os arquivos `.dbc` da pasta `notebooks/dbc/`.
-3. Envie os CSVs da pasta `data/csv/` para o volume `workspace.landing.dados`.
-4. Execute os notebooks na ordem numerica.
-5. Crie uma Job com as tarefas encadeadas:
+2. Importe os arquivos `.py` da pasta `notebooks/python/` para o Workspace do Databricks.
+3. Execute o notebook `001 - Preparando ambiente`.
+4. Crie o banco `ai_job_market` no MongoDB Atlas e importe os JSONs de `data/mongodb/collections/` como collections.
+5. Execute o notebook `002 - Extracao`, informando a connection string do Atlas no widget `mongodb_uri`, para gerar os JSONs em `workspace.landing.dados`.
+6. Execute os notebooks na ordem do pipeline.
+7. Crie uma Job com as tarefas encadeadas:
    - `001 - Preparando ambiente`
-   - `002 - Bronze`
-   - `003 - Silver`
-   - `004 - Gold`
-6. Execute a Job e valide a criacao das tabelas nos schemas `bronze`, `silver` e `gold`.
+   - `002 - Extracao`
+   - `003 - Bronze`
+   - `004 - Silver`
+   - `005 - Gold`
+8. Execute a Job e valide a criacao das tabelas nos schemas `bronze`, `silver` e `gold`.
 
-O notebook `005 - Destruindo ambiente` deve ser usado apenas para limpeza do ambiente, quando for necessario reiniciar o projeto.
+O notebook `006 - Destruindo ambiente` deve ser usado apenas para limpeza do ambiente, quando for necessario reiniciar o projeto.
 
 ## Camadas do Lakehouse
 
 ### Landing
 
-Camada de entrada dos dados. Armazena os arquivos CSV originais dentro de um volume do Databricks, mantendo os dados brutos sem transformacoes.
+Camada de entrada dos dados. Armazena os arquivos JSON extraidos do MongoDB Atlas dentro de um volume do Databricks, mantendo os dados brutos sem transformacoes.
 
 ### Bronze
 
@@ -126,18 +139,10 @@ Camada dimensional, voltada para analise. O modelo segue a abordagem de Ralph Ki
 ```text
 .
 ├── data/
-│   └── csv/
-│       ├── apolice.csv
-│       ├── carro.csv
-│       ├── cliente.csv
-│       ├── endereco.csv
-│       ├── estado.csv
-│       ├── marca.csv
-│       ├── modelo.csv
-│       ├── municipio.csv
-│       ├── regiao.csv
-│       ├── sinistro.csv
-│       └── telefone.csv
+│   ├── raw/
+│   │   └── ai_job_market_insights.csv
+│   └── mongodb/
+│       └── collections/
 ├── docs/
 │   ├── index.md
 │   ├── arquitetura.md
@@ -147,12 +152,11 @@ Camada dimensional, voltada para analise. O modelo segue a abordagem de Ralph Ki
 │   ├── job.md
 │   └── notebooks/
 │       ├── 001_preparando_ambiente.md
-│       ├── 002_bronze.md
-│       ├── 003_silver.md
-│       ├── 004_gold.md
-│       └── 005_destruindo_ambiente.md
+│       ├── 003_bronze.md
+│       ├── 004_silver.md
+│       ├── 005_gold.md
+│       └── 006_destruindo_ambiente.md
 ├── notebooks/
-│   ├── dbc/
 │   └── python/
 ├── mkdocs.yml
 ├── requirements.txt
@@ -176,10 +180,14 @@ Camada dimensional, voltada para analise. O modelo segue a abordagem de Ralph Ki
 
 - Lakehouse
 - Arquitetura Medalhao
-- Ingestao de arquivos CSV
+- Ingestao de arquivos JSON
 - Armazenamento em Delta Lake
 - Data Quality
 - Modelagem dimensional
 - Dimensoes e fatos
 - Encadeamento de notebooks com Databricks Jobs
 - Organizacao de projeto de Engenharia de Dados
+│   └── mongodb/
+│       └── collections/
+
+

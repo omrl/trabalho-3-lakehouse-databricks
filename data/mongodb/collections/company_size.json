@@ -1,0 +1,2502 @@
+﻿[
+    {
+        "id_linha":  1,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  2,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  3,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  4,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  5,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  6,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  7,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  8,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  9,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  10,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  11,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  12,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  13,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  14,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  15,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  16,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  17,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  18,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  19,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  20,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  21,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  22,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  23,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  24,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  25,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  26,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  27,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  28,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  29,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  30,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  31,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  32,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  33,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  34,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  35,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  36,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  37,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  38,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  39,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  40,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  41,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  42,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  43,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  44,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  45,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  46,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  47,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  48,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  49,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  50,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  51,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  52,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  53,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  54,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  55,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  56,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  57,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  58,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  59,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  60,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  61,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  62,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  63,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  64,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  65,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  66,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  67,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  68,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  69,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  70,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  71,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  72,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  73,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  74,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  75,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  76,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  77,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  78,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  79,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  80,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  81,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  82,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  83,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  84,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  85,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  86,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  87,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  88,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  89,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  90,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  91,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  92,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  93,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  94,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  95,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  96,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  97,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  98,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  99,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  100,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  101,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  102,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  103,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  104,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  105,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  106,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  107,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  108,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  109,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  110,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  111,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  112,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  113,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  114,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  115,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  116,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  117,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  118,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  119,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  120,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  121,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  122,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  123,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  124,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  125,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  126,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  127,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  128,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  129,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  130,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  131,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  132,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  133,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  134,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  135,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  136,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  137,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  138,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  139,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  140,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  141,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  142,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  143,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  144,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  145,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  146,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  147,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  148,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  149,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  150,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  151,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  152,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  153,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  154,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  155,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  156,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  157,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  158,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  159,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  160,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  161,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  162,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  163,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  164,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  165,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  166,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  167,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  168,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  169,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  170,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  171,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  172,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  173,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  174,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  175,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  176,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  177,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  178,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  179,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  180,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  181,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  182,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  183,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  184,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  185,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  186,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  187,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  188,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  189,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  190,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  191,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  192,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  193,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  194,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  195,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  196,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  197,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  198,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  199,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  200,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  201,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  202,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  203,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  204,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  205,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  206,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  207,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  208,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  209,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  210,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  211,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  212,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  213,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  214,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  215,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  216,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  217,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  218,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  219,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  220,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  221,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  222,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  223,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  224,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  225,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  226,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  227,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  228,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  229,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  230,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  231,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  232,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  233,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  234,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  235,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  236,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  237,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  238,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  239,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  240,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  241,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  242,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  243,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  244,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  245,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  246,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  247,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  248,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  249,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  250,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  251,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  252,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  253,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  254,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  255,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  256,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  257,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  258,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  259,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  260,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  261,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  262,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  263,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  264,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  265,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  266,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  267,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  268,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  269,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  270,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  271,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  272,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  273,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  274,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  275,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  276,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  277,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  278,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  279,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  280,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  281,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  282,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  283,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  284,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  285,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  286,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  287,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  288,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  289,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  290,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  291,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  292,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  293,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  294,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  295,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  296,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  297,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  298,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  299,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  300,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  301,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  302,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  303,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  304,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  305,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  306,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  307,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  308,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  309,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  310,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  311,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  312,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  313,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  314,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  315,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  316,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  317,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  318,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  319,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  320,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  321,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  322,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  323,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  324,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  325,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  326,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  327,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  328,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  329,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  330,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  331,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  332,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  333,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  334,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  335,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  336,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  337,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  338,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  339,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  340,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  341,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  342,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  343,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  344,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  345,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  346,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  347,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  348,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  349,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  350,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  351,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  352,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  353,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  354,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  355,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  356,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  357,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  358,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  359,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  360,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  361,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  362,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  363,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  364,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  365,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  366,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  367,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  368,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  369,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  370,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  371,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  372,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  373,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  374,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  375,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  376,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  377,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  378,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  379,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  380,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  381,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  382,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  383,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  384,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  385,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  386,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  387,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  388,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  389,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  390,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  391,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  392,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  393,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  394,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  395,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  396,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  397,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  398,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  399,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  400,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  401,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  402,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  403,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  404,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  405,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  406,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  407,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  408,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  409,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  410,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  411,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  412,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  413,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  414,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  415,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  416,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  417,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  418,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  419,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  420,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  421,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  422,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  423,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  424,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  425,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  426,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  427,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  428,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  429,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  430,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  431,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  432,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  433,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  434,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  435,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  436,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  437,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  438,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  439,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  440,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  441,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  442,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  443,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  444,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  445,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  446,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  447,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  448,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  449,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  450,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  451,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  452,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  453,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  454,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  455,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  456,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  457,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  458,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  459,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  460,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  461,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  462,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  463,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  464,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  465,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  466,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  467,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  468,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  469,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  470,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  471,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  472,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  473,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  474,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  475,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  476,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  477,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  478,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  479,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  480,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  481,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  482,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  483,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  484,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  485,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  486,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  487,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  488,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  489,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  490,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  491,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  492,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  493,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  494,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  495,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  496,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  497,
+        "valor":  "Small",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  498,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  499,
+        "valor":  "Large",
+        "coluna_origem":  "Company_Size"
+    },
+    {
+        "id_linha":  500,
+        "valor":  "Medium",
+        "coluna_origem":  "Company_Size"
+    }
+]

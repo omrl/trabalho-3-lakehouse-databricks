@@ -1,4 +1,4 @@
-# 004 - Gold
+﻿# 005 - Gold
 
 Este notebook cria a camada analitica do projeto.
 
@@ -36,11 +36,12 @@ A camada Gold segue a abordagem de Ralph Kimball:
 
 ## Exemplos de Tabelas
 
-- `gold.dim_cliente`
-- `gold.dim_carro`
+- `gold.dim_cargo`
+- `gold.dim_empresa`
 - `gold.dim_localidade`
-- `gold.fato_apolice_sinistro`
+- `gold.fato_mercado_ia`
 
 ## Papel no Pipeline
 
 A Gold e a camada final do Lakehouse e representa a area de consumo para consultas SQL, dashboards e indicadores.
+
