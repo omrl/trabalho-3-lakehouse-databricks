@@ -667,11 +667,11 @@ flowchart LR
     gold[(Gold&lt;br/&gt;Modelo dimensional&lt;br/&gt;Analise de negocio)]
     job[Databricks Job&lt;br/&gt;Orquestracao dos notebooks]
 
-    db --&gt;|Notebook 000&lt;br/&gt;Extracao| json
+    db --&gt;|Notebook 002&lt;br/&gt;Extracao| json
     json --&gt;|Ingestao| landing
-    landing --&gt;|Notebook 002| bronze
-    bronze --&gt;|Notebook 003&lt;br/&gt;Data Quality| silver
-    silver --&gt;|Notebook 004&lt;br/&gt;Dimensoes e fatos| gold
+    landing --&gt;|Notebook 003| bronze
+    bronze --&gt;|Notebook 004&lt;br/&gt;Data Quality| silver
+    silver --&gt;|Notebook 005&lt;br/&gt;Dimensoes e fatos| gold
 
     job -.-&gt; landing
     job -.-&gt; bronze
