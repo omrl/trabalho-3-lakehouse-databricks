@@ -13,10 +13,10 @@
       
       
       
-        <link rel="prev" href="../001_preparando_ambiente/">
+        <link rel="prev" href="../003_bronze/">
       
       
-        <link rel="next" href="../003_silver/">
+        <link rel="next" href="../005_gold/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -24,7 +24,7 @@
     
     
       
-        <title>002 - Bronze - Lakehouse Databricks - Trabalho 3</title>
+        <title>004 - Silver - Lakehouse Databricks - Trabalho 3</title>
       
     
     
@@ -68,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#002-bronze" class="md-skip">
+        <a href="#004-silver" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -104,7 +104,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              002 - Bronze
+              004 - Silver
             
           </span>
         </div>
@@ -377,6 +377,48 @@
                 
   
   
+  
+  
+    <li class="md-nav__item">
+      <a href="../002_extracao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    002 - Extracao
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../003_bronze/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    003 - Bronze
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
     
   
   
@@ -393,7 +435,7 @@
           
   
   <span class="md-ellipsis">
-    002 - Bronze
+    004 - Silver
   </span>
   
 
@@ -404,7 +446,7 @@
         
   
   <span class="md-ellipsis">
-    002 - Bronze
+    004 - Silver
   </span>
   
 
@@ -453,9 +495,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tabelas-processadas" class="md-nav__link">
+  <a href="#data-quality" class="md-nav__link">
     <span class="md-ellipsis">
-      Tabelas Processadas
+      Data Quality
     </span>
   </a>
   
@@ -486,11 +528,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../003_silver/" class="md-nav__link">
+      <a href="../005_gold/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    003 - Silver
+    005 - Gold
   </span>
   
 
@@ -507,32 +549,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../004_gold/" class="md-nav__link">
+      <a href="../006_destruindo_ambiente/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    004 - Gold
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../005_destruindo_ambiente/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    005 - Destruindo ambiente
+    006 - Destruindo ambiente
   </span>
   
 
@@ -603,9 +624,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#tabelas-processadas" class="md-nav__link">
+  <a href="#data-quality" class="md-nav__link">
     <span class="md-ellipsis">
-      Tabelas Processadas
+      Data Quality
     </span>
   </a>
   
@@ -635,40 +656,37 @@
                   
 
 
-<h1 id="002-bronze">002 - Bronze<a class="headerlink" href="#002-bronze" title="Permanent link">&para;</a></h1>
-<p>Este notebook le os arquivos CSV armazenados na Landing e cria tabelas Delta na camada Bronze.</p>
+<h1 id="004-silver">004 - Silver<a class="headerlink" href="#004-silver" title="Permanent link">&para;</a></h1>
+<p>Este notebook le as tabelas Bronze e cria tabelas tratadas na camada Silver.</p>
 <h2 id="entrada">Entrada<a class="headerlink" href="#entrada" title="Permanent link">&para;</a></h2>
-<p>Arquivos CSV no volume:</p>
-<div class="highlight"><pre><span></span><code>/Volumes/workspace/landing/dados/
-</code></pre></div>
-<h2 id="saida">Saida<a class="headerlink" href="#saida" title="Permanent link">&para;</a></h2>
 <p>Tabelas Delta no schema:</p>
 <div class="highlight"><pre><span></span><code>workspace.bronze
 </code></pre></div>
+<h2 id="saida">Saida<a class="headerlink" href="#saida" title="Permanent link">&para;</a></h2>
+<p>Tabelas Delta no schema:</p>
+<div class="highlight"><pre><span></span><code>workspace.silver
+</code></pre></div>
 <h2 id="responsabilidades">Responsabilidades<a class="headerlink" href="#responsabilidades" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Ler os arquivos CSV.</li>
-<li>Identificar cabecalho e separador.</li>
-<li>Converter os dados para DataFrames Spark.</li>
-<li>Gravar as tabelas em formato Delta Lake.</li>
-<li>Preservar a estrutura da origem.</li>
+<li>Ajustar tipos de dados.</li>
+<li>Padronizar textos.</li>
+<li>Tratar espacos em campos textuais.</li>
+<li>Validar chaves e campos obrigatorios.</li>
+<li>Remover ou tratar registros inconsistentes.</li>
+<li>Reunir os arquivos separados por coluna usando <code>id_linha</code>.</li>
+<li>Preparar os dados para a modelagem dimensional.</li>
 </ul>
-<h2 id="tabelas-processadas">Tabelas Processadas<a class="headerlink" href="#tabelas-processadas" title="Permanent link">&para;</a></h2>
+<h2 id="data-quality">Data Quality<a class="headerlink" href="#data-quality" title="Permanent link">&para;</a></h2>
+<p>A camada Silver concentra as regras de qualidade do pipeline. Exemplos de verificacoes aplicaveis:</p>
 <ul>
-<li><code>apolice</code></li>
-<li><code>carro</code></li>
-<li><code>cliente</code></li>
-<li><code>endereco</code></li>
-<li><code>estado</code></li>
-<li><code>marca</code></li>
-<li><code>modelo</code></li>
-<li><code>municipio</code></li>
-<li><code>regiao</code></li>
-<li><code>sinistro</code></li>
-<li><code>telefone</code></li>
+<li>campos identificadores nao nulos;</li>
+<li><code>id_linha</code> valido e nao nulo;</li>
+<li>valores monetarios numericos;</li>
+<li>textos sem espacos excedentes;</li>
+<li>relacionamentos coerentes entre tabelas.</li>
 </ul>
 <h2 id="papel-no-pipeline">Papel no Pipeline<a class="headerlink" href="#papel-no-pipeline" title="Permanent link">&para;</a></h2>
-<p>A Bronze e a primeira camada estruturada do Lakehouse. Ela permite rastrear os dados conforme chegaram da origem e serve como base para a camada Silver.</p>
+<p>A Silver reduz problemas vindos da origem e fornece uma base confiavel para criacao das dimensoes e fatos na Gold.</p>
 
 
 

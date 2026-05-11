@@ -13,10 +13,10 @@
       
       
       
-        <link rel="prev" href="../003_silver/">
+        <link rel="prev" href="../004_silver/">
       
       
-        <link rel="next" href="../005_destruindo_ambiente/">
+        <link rel="next" href="../006_destruindo_ambiente/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -24,7 +24,7 @@
     
     
       
-        <title>004 - Gold - Lakehouse Databricks - Trabalho 3</title>
+        <title>005 - Gold - Lakehouse Databricks - Trabalho 3</title>
       
     
     
@@ -68,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#004-gold" class="md-skip">
+        <a href="#005-gold" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -104,7 +104,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              004 - Gold
+              005 - Gold
             
           </span>
         </div>
@@ -380,11 +380,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../002_bronze/" class="md-nav__link">
+      <a href="../002_extracao/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    002 - Bronze
+    002 - Extracao
   </span>
   
 
@@ -401,11 +401,32 @@
   
   
     <li class="md-nav__item">
-      <a href="../003_silver/" class="md-nav__link">
+      <a href="../003_bronze/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    003 - Silver
+    003 - Bronze
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../004_silver/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    004 - Silver
   </span>
   
 
@@ -435,7 +456,7 @@
           
   
   <span class="md-ellipsis">
-    004 - Gold
+    005 - Gold
   </span>
   
 
@@ -446,7 +467,7 @@
         
   
   <span class="md-ellipsis">
-    004 - Gold
+    005 - Gold
   </span>
   
 
@@ -537,11 +558,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../005_destruindo_ambiente/" class="md-nav__link">
+      <a href="../006_destruindo_ambiente/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    005 - Destruindo ambiente
+    006 - Destruindo ambiente
   </span>
   
 
@@ -653,7 +674,7 @@
                   
 
 
-<h1 id="004-gold">004 - Gold<a class="headerlink" href="#004-gold" title="Permanent link">&para;</a></h1>
+<h1 id="005-gold">005 - Gold<a class="headerlink" href="#005-gold" title="Permanent link">&para;</a></h1>
 <p>Este notebook cria a camada analitica do projeto.</p>
 <h2 id="entrada">Entrada<a class="headerlink" href="#entrada" title="Permanent link">&para;</a></h2>
 <p>Tabelas tratadas no schema:</p>
@@ -680,10 +701,10 @@
 </ul>
 <h2 id="exemplos-de-tabelas">Exemplos de Tabelas<a class="headerlink" href="#exemplos-de-tabelas" title="Permanent link">&para;</a></h2>
 <ul>
-<li><code>gold.dim_cliente</code></li>
-<li><code>gold.dim_carro</code></li>
+<li><code>gold.dim_cargo</code></li>
+<li><code>gold.dim_empresa</code></li>
 <li><code>gold.dim_localidade</code></li>
-<li><code>gold.fato_apolice_sinistro</code></li>
+<li><code>gold.fato_mercado_ia</code></li>
 </ul>
 <h2 id="papel-no-pipeline">Papel no Pipeline<a class="headerlink" href="#papel-no-pipeline" title="Permanent link">&para;</a></h2>
 <p>A Gold e a camada final do Lakehouse e representa a area de consumo para consultas SQL, dashboards e indicadores.</p>

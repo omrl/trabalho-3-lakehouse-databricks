@@ -463,11 +463,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/002_bronze/" class="md-nav__link">
+      <a href="../notebooks/002_extracao/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    002 - Bronze
+    002 - Extracao
   </span>
   
 
@@ -484,11 +484,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/003_silver/" class="md-nav__link">
+      <a href="../notebooks/003_bronze/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    003 - Silver
+    003 - Bronze
   </span>
   
 
@@ -505,11 +505,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/004_gold/" class="md-nav__link">
+      <a href="../notebooks/004_silver/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    004 - Gold
+    004 - Silver
   </span>
   
 
@@ -526,11 +526,32 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/005_destruindo_ambiente/" class="md-nav__link">
+      <a href="../notebooks/005_gold/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    005 - Destruindo ambiente
+    005 - Gold
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../notebooks/006_destruindo_ambiente/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    006 - Destruindo ambiente
   </span>
   
 
@@ -637,7 +658,7 @@
 <p>Os notebooks foram encadeados em uma Job no Databricks para garantir a execucao sequencial do pipeline.</p>
 <h2 id="objetivo-da-job">Objetivo da Job<a class="headerlink" href="#objetivo-da-job" title="Permanent link">&para;</a></h2>
 <p>A Job automatiza o fluxo completo:</p>
-<div class="highlight"><pre><span></span><code>Preparar ambiente -&gt; Bronze -&gt; Silver -&gt; Gold
+<div class="highlight"><pre><span></span><code>Preparar ambiente -&gt; Extracao -&gt; Bronze -&gt; Silver -&gt; Gold
 </code></pre></div>
 <p>Com isso, a execucao deixa de depender de rodar manualmente cada notebook em separado.</p>
 <h2 id="tarefas-da-job">Tarefas da Job<a class="headerlink" href="#tarefas-da-job" title="Permanent link">&para;</a></h2>
@@ -657,23 +678,31 @@
 </tr>
 <tr>
 <td style="text-align: right;">2</td>
-<td><code>002 - Bronze</code></td>
-<td>Executa apos o ambiente estar pronto</td>
+<td><code>002 - Extracao</code></td>
+<td>Executa apos o ambiente estar pronto e extrai do MongoDB Atlas</td>
 </tr>
 <tr>
 <td style="text-align: right;">3</td>
-<td><code>003 - Silver</code></td>
-<td>Executa apos a Bronze</td>
+<td><code>003 - Bronze</code></td>
+<td>Executa apos a extracao</td>
 </tr>
 <tr>
 <td style="text-align: right;">4</td>
-<td><code>004 - Gold</code></td>
+<td><code>004 - Silver</code></td>
+<td>Executa apos a Bronze</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td><code>005 - Gold</code></td>
 <td>Executa apos a Silver</td>
 </tr>
 </tbody>
 </table>
 <h2 id="fluxo-de-dependencias">Fluxo de Dependencias<a class="headerlink" href="#fluxo-de-dependencias" title="Permanent link">&para;</a></h2>
 <div class="highlight"><pre><span></span><code>001 Preparando ambiente
+        │
+        ▼
+000 Extracao
         │
         ▼
 002 Bronze

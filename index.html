@@ -461,11 +461,11 @@
   
   
     <li class="md-nav__item">
-      <a href="notebooks/002_bronze/" class="md-nav__link">
+      <a href="notebooks/002_extracao/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    002 - Bronze
+    002 - Extracao
   </span>
   
 
@@ -482,11 +482,11 @@
   
   
     <li class="md-nav__item">
-      <a href="notebooks/003_silver/" class="md-nav__link">
+      <a href="notebooks/003_bronze/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    003 - Silver
+    003 - Bronze
   </span>
   
 
@@ -503,11 +503,11 @@
   
   
     <li class="md-nav__item">
-      <a href="notebooks/004_gold/" class="md-nav__link">
+      <a href="notebooks/004_silver/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    004 - Gold
+    004 - Silver
   </span>
   
 
@@ -524,11 +524,32 @@
   
   
     <li class="md-nav__item">
-      <a href="notebooks/005_destruindo_ambiente/" class="md-nav__link">
+      <a href="notebooks/005_gold/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    005 - Destruindo ambiente
+    005 - Gold
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="notebooks/006_destruindo_ambiente/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    006 - Destruindo ambiente
   </span>
   
 
@@ -633,25 +654,26 @@
 
 <h1 id="lakehouse-com-databricks-free-edition">Lakehouse com Databricks Free Edition<a class="headerlink" href="#lakehouse-com-databricks-free-edition" title="Permanent link">&para;</a></h1>
 <p>Este projeto implementa um pipeline Lakehouse no Databricks Free Edition usando a Arquitetura Medalhao.</p>
-<p>O trabalho utiliza arquivos CSV de uma base relacional de seguros e organiza o processamento nas camadas <code>Landing</code>, <code>Bronze</code>, <code>Silver</code> e <code>Gold</code>.</p>
+<p>O trabalho utiliza um banco não relacional no MongoDB Atlas criado a partir da base <code>ai_job_market_insights.csv</code>. O pipeline extrai todas as collections desse banco para JSON na Landing e processa os dados nas camadas <code>Bronze</code>, <code>Silver</code> e <code>Gold</code>.</p>
 <h2 id="objetivo">Objetivo<a class="headerlink" href="#objetivo" title="Permanent link">&para;</a></h2>
 <p>O objetivo principal e demonstrar um fluxo completo de Engenharia de Dados:</p>
 <ul>
 <li>recepcao dos arquivos brutos;</li>
+<li>extracao de collections de um banco não relacional;</li>
 <li>persistencia dos dados em Delta Lake;</li>
 <li>tratamento e aplicacao de Data Quality;</li>
 <li>criacao de tabelas analiticas;</li>
 <li>execucao orquestrada por Job no Databricks.</li>
 </ul>
 <h2 id="fluxo-geral">Fluxo Geral<a class="headerlink" href="#fluxo-geral" title="Permanent link">&para;</a></h2>
-<div class="highlight"><pre><span></span><code>CSV -&gt; Landing -&gt; Bronze -&gt; Silver -&gt; Gold
+<div class="highlight"><pre><span></span><code>MongoDB Atlas -&gt; JSON/Landing -&gt; Bronze -&gt; Silver -&gt; Gold
 </code></pre></div>
 <p>Cada etapa foi implementada em um notebook separado, permitindo que o pipeline seja executado de forma modular ou encadeado em uma Job.</p>
 <h2 id="entregaveis">Entregaveis<a class="headerlink" href="#entregaveis" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Arquivos CSV da base em <code>data/csv/</code>.</li>
-<li>Notebooks exportados em <code>.dbc</code> em <code>notebooks/dbc/</code>.</li>
-<li>Versao extraida dos notebooks em scripts <code>.py</code> legiveis em <code>notebooks/python/</code>.</li>
+<li>Arquivos JSON para carga no MongoDB Atlas em <code>data/mongodb/collections/</code>.</li>
+<li>Arquivos JSON extraidos para a Landing.</li>
+<li>Notebooks em scripts <code>.py</code> legiveis em <code>notebooks/python/</code>.</li>
 <li>Documentacao em MkDocs na pasta <code>docs/</code>.</li>
 <li>Arquivo <code>mkdocs.yml</code> para gerar a documentacao.</li>
 <li><code>README.md</code> explicando o projeto no GitHub.</li>

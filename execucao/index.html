@@ -321,9 +321,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#upload-dos-csvs" class="md-nav__link">
+  <a href="#preparacao-do-mongodb-atlas" class="md-nav__link">
     <span class="md-ellipsis">
-      Upload dos CSVs
+      Preparacao do MongoDB Atlas
     </span>
   </a>
   
@@ -472,11 +472,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/002_bronze/" class="md-nav__link">
+      <a href="../notebooks/002_extracao/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    002 - Bronze
+    002 - Extracao
   </span>
   
 
@@ -493,11 +493,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/003_silver/" class="md-nav__link">
+      <a href="../notebooks/003_bronze/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    003 - Silver
+    003 - Bronze
   </span>
   
 
@@ -514,11 +514,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/004_gold/" class="md-nav__link">
+      <a href="../notebooks/004_silver/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    004 - Gold
+    004 - Silver
   </span>
   
 
@@ -535,11 +535,32 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/005_destruindo_ambiente/" class="md-nav__link">
+      <a href="../notebooks/005_gold/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    005 - Destruindo ambiente
+    005 - Gold
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../notebooks/006_destruindo_ambiente/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    006 - Destruindo ambiente
   </span>
   
 
@@ -601,9 +622,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#upload-dos-csvs" class="md-nav__link">
+  <a href="#preparacao-do-mongodb-atlas" class="md-nav__link">
     <span class="md-ellipsis">
-      Upload dos CSVs
+      Preparacao do MongoDB Atlas
     </span>
   </a>
   
@@ -657,8 +678,9 @@
 <ul>
 <li>Conta no Databricks Free Edition.</li>
 <li>Permissao para criar schemas, volumes e tabelas no workspace.</li>
-<li>Arquivos CSV disponiveis na pasta <code>data/csv/</code>.</li>
-<li>Notebooks <code>.dbc</code> disponiveis na pasta <code>notebooks/dbc/</code>.</li>
+<li>Banco <code>ai_job_market</code> criado no MongoDB Atlas.</li>
+<li>Collections importadas a partir dos arquivos de <code>data/mongodb/collections/</code>.</li>
+<li>Notebooks <code>.py</code> disponiveis na pasta <code>notebooks/python/</code>.</li>
 </ul>
 <h2 id="importacao-dos-notebooks">Importacao dos Notebooks<a class="headerlink" href="#importacao-dos-notebooks" title="Permanent link">&para;</a></h2>
 <p>No Databricks:</p>
@@ -666,14 +688,19 @@
 <li>Acesse <code>Workspace</code>.</li>
 <li>Escolha a pasta onde deseja importar os notebooks.</li>
 <li>Clique em <code>Import</code>.</li>
-<li>Selecione os arquivos <code>.dbc</code> da pasta <code>notebooks/dbc/</code>.</li>
-<li>Confirme a importacao.</li>
+<li>Selecione os arquivos <code>.py</code> da pasta <code>notebooks/python/</code>.</li>
+<li>Confirme a importacao como notebooks.</li>
 </ol>
-<h2 id="upload-dos-csvs">Upload dos CSVs<a class="headerlink" href="#upload-dos-csvs" title="Permanent link">&para;</a></h2>
-<p>Os CSVs devem ser enviados para o volume da camada Landing:</p>
-<div class="highlight"><pre><span></span><code>workspace.landing.dados
-</code></pre></div>
-<p>O caminho fisico esperado no Databricks segue o formato:</p>
+<h2 id="preparacao-do-mongodb-atlas">Preparacao do MongoDB Atlas<a class="headerlink" href="#preparacao-do-mongodb-atlas" title="Permanent link">&para;</a></h2>
+<p>No MongoDB Atlas:</p>
+<ol>
+<li>Crie um cluster gratuito.</li>
+<li>Crie o banco <code>ai_job_market</code>.</li>
+<li>Importe os arquivos de <code>data/mongodb/collections/</code>.</li>
+<li>Use o nome do arquivo como nome da collection.</li>
+<li>Copie a connection string do Atlas.</li>
+</ol>
+<p>Depois, o notebook <code>002 - Extracao</code> gera os JSONs no volume:</p>
 <div class="highlight"><pre><span></span><code>/Volumes/workspace/landing/dados/
 </code></pre></div>
 <h2 id="ordem-de-execucao">Ordem de Execucao<a class="headerlink" href="#ordem-de-execucao" title="Permanent link">&para;</a></h2>
@@ -690,30 +717,36 @@
 <tr>
 <td style="text-align: right;">1</td>
 <td><code>001 - Preparando ambiente</code></td>
-<td>Cria schemas e volume</td>
+<td>Cria schemas e volumes</td>
 </tr>
 <tr>
 <td style="text-align: right;">2</td>
-<td><code>002 - Bronze</code></td>
-<td>Carrega CSVs como tabelas Delta Bronze</td>
+<td><code>002 - Extracao</code></td>
+<td>Extrai collections do MongoDB Atlas para JSON na Landing</td>
 </tr>
 <tr>
 <td style="text-align: right;">3</td>
-<td><code>003 - Silver</code></td>
-<td>Trata e qualifica os dados</td>
+<td><code>003 - Bronze</code></td>
+<td>Carrega JSONs como tabelas Delta Bronze</td>
 </tr>
 <tr>
 <td style="text-align: right;">4</td>
-<td><code>004 - Gold</code></td>
-<td>Cria modelo dimensional</td>
+<td><code>004 - Silver</code></td>
+<td>Trata, qualifica e remonta a base pelo <code>id_linha</code></td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td><code>005 - Gold</code></td>
+<td>Cria dimensoes e fato para analise do mercado de IA</td>
 </tr>
 </tbody>
 </table>
-<p>O notebook <code>005 - Destruindo ambiente</code> nao faz parte da execucao principal. Ele serve para limpar o ambiente em caso de reprocessamento completo.</p>
+<p>O notebook <code>006 - Destruindo ambiente</code> nao faz parte da execucao principal. Ele serve para limpar o ambiente em caso de reprocessamento completo.</p>
 <h2 id="validacoes">Validacoes<a class="headerlink" href="#validacoes" title="Permanent link">&para;</a></h2>
 <p>Apos executar o fluxo, valide:</p>
 <ul>
-<li>se os arquivos estao no volume da Landing;</li>
+<li>se as collections existem no MongoDB Atlas;</li>
+<li>se os JSONs foram gerados no volume <code>workspace.landing.dados</code>;</li>
 <li>se as tabelas foram criadas no schema <code>bronze</code>;</li>
 <li>se as tabelas tratadas foram criadas no schema <code>silver</code>;</li>
 <li>se as dimensoes e a fato foram criadas no schema <code>gold</code>;</li>

@@ -13,8 +13,10 @@
       
       
       
-        <link rel="prev" href="../004_gold/">
+        <link rel="prev" href="../001_preparando_ambiente/">
       
+      
+        <link rel="next" href="../003_bronze/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -22,7 +24,7 @@
     
     
       
-        <title>005 - Destruindo ambiente - Lakehouse Databricks - Trabalho 3</title>
+        <title>002 - Extracao - Lakehouse Databricks - Trabalho 3</title>
       
     
     
@@ -66,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#005-destruindo-ambiente" class="md-skip">
+        <a href="#002-extracao" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -102,7 +104,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              005 - Destruindo ambiente
+              002 - Extracao
             
           </span>
         </div>
@@ -375,69 +377,6 @@
                 
   
   
-  
-  
-    <li class="md-nav__item">
-      <a href="../002_bronze/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    002 - Bronze
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../003_silver/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    003 - Silver
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../004_gold/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    004 - Gold
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
     
   
   
@@ -454,7 +393,7 @@
           
   
   <span class="md-ellipsis">
-    005 - Destruindo ambiente
+    002 - Extracao
   </span>
   
 
@@ -465,7 +404,7 @@
         
   
   <span class="md-ellipsis">
-    005 - Destruindo ambiente
+    002 - Extracao
   </span>
   
 
@@ -487,27 +426,45 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#uso" class="md-nav__link">
+  <a href="#entrada" class="md-nav__link">
     <span class="md-ellipsis">
-      Uso
+      Entrada
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#atencao" class="md-nav__link">
+  <a href="#saida" class="md-nav__link">
     <span class="md-ellipsis">
-      Atencao
+      Saida
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#papel-no-projeto" class="md-nav__link">
+  <a href="#responsabilidades" class="md-nav__link">
     <span class="md-ellipsis">
-      Papel no Projeto
+      Responsabilidades
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabelas-extraidas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabelas Extraidas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#papel-no-pipeline" class="md-nav__link">
+    <span class="md-ellipsis">
+      Papel no Pipeline
     </span>
   </a>
   
@@ -517,6 +474,90 @@
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../003_bronze/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    003 - Bronze
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../004_silver/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    004 - Silver
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../005_gold/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    005 - Gold
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../006_destruindo_ambiente/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    006 - Destruindo ambiente
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -556,27 +597,45 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#uso" class="md-nav__link">
+  <a href="#entrada" class="md-nav__link">
     <span class="md-ellipsis">
-      Uso
+      Entrada
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#atencao" class="md-nav__link">
+  <a href="#saida" class="md-nav__link">
     <span class="md-ellipsis">
-      Atencao
+      Saida
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#papel-no-projeto" class="md-nav__link">
+  <a href="#responsabilidades" class="md-nav__link">
     <span class="md-ellipsis">
-      Papel no Projeto
+      Responsabilidades
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tabelas-extraidas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabelas Extraidas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#papel-no-pipeline" class="md-nav__link">
+    <span class="md-ellipsis">
+      Papel no Pipeline
     </span>
   </a>
   
@@ -597,20 +656,39 @@
                   
 
 
-<h1 id="005-destruindo-ambiente">005 - Destruindo Ambiente<a class="headerlink" href="#005-destruindo-ambiente" title="Permanent link">&para;</a></h1>
-<p>Este notebook remove objetos criados pelo projeto.</p>
-<h2 id="uso">Uso<a class="headerlink" href="#uso" title="Permanent link">&para;</a></h2>
-<p>Ele deve ser executado somente quando for necessario limpar o ambiente, por exemplo:</p>
+<h1 id="002-extracao">002 - Extracao<a class="headerlink" href="#002-extracao" title="Permanent link">&para;</a></h1>
+<p>Este notebook representa a primeira etapa do trabalho: extrair todas as collections de um banco não relacional e gravar arquivos JSON na Landing.</p>
+<h2 id="entrada">Entrada<a class="headerlink" href="#entrada" title="Permanent link">&para;</a></h2>
+<p>MongoDB Atlas:</p>
+<div class="highlight"><pre><span></span><code>Database: ai_job_market
+</code></pre></div>
+<h2 id="saida">Saida<a class="headerlink" href="#saida" title="Permanent link">&para;</a></h2>
+<p>Arquivos JSON no volume:</p>
+<div class="highlight"><pre><span></span><code>/Volumes/workspace/landing/dados/
+</code></pre></div>
+<h2 id="responsabilidades">Responsabilidades<a class="headerlink" href="#responsabilidades" title="Permanent link">&para;</a></h2>
 <ul>
-<li>reiniciar o trabalho do zero;</li>
-<li>remover tabelas de teste;</li>
-<li>apagar schemas criados durante o desenvolvimento.</li>
+<li>Conectar ao MongoDB Atlas.</li>
+<li>Ler as collections da fonte.</li>
+<li>Extrair todos os documentos de cada collection.</li>
+<li>Gerar um JSON para cada collection no volume da Landing.</li>
+<li>Manter o campo <code>id_linha</code> para permitir a reconstrucao da base na Silver.</li>
 </ul>
-<h2 id="atencao">Atencao<a class="headerlink" href="#atencao" title="Permanent link">&para;</a></h2>
-<p>Este notebook nao faz parte da Job principal do pipeline.</p>
-<p>Executar esse notebook pode apagar tabelas, volumes ou schemas usados pelos demais notebooks. Por isso, ele deve ser usado com cuidado e apenas quando a limpeza for intencional.</p>
-<h2 id="papel-no-projeto">Papel no Projeto<a class="headerlink" href="#papel-no-projeto" title="Permanent link">&para;</a></h2>
-<p>O notebook de destruicao ajuda no ciclo de desenvolvimento, permitindo recriar o ambiente de forma limpa antes de uma nova execucao completa.</p>
+<h2 id="tabelas-extraidas">Tabelas Extraidas<a class="headerlink" href="#tabelas-extraidas" title="Permanent link">&para;</a></h2>
+<ul>
+<li><code>job_title</code></li>
+<li><code>industry</code></li>
+<li><code>company_size</code></li>
+<li><code>location</code></li>
+<li><code>ai_adoption_level</code></li>
+<li><code>automation_risk</code></li>
+<li><code>required_skills</code></li>
+<li><code>salary_usd</code></li>
+<li><code>remote_friendly</code></li>
+<li><code>job_growth_projection</code></li>
+</ul>
+<h2 id="papel-no-pipeline">Papel no Pipeline<a class="headerlink" href="#papel-no-pipeline" title="Permanent link">&para;</a></h2>
+<p>A extracao separa a fonte MongoDB Atlas da camada Lakehouse. Depois dela, a Bronze passa a consumir apenas os arquivos JSON da Landing.</p>
 
 
 

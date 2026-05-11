@@ -463,11 +463,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/002_bronze/" class="md-nav__link">
+      <a href="../notebooks/002_extracao/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    002 - Bronze
+    002 - Extracao
   </span>
   
 
@@ -484,11 +484,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/003_silver/" class="md-nav__link">
+      <a href="../notebooks/003_bronze/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    003 - Silver
+    003 - Bronze
   </span>
   
 
@@ -505,11 +505,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/004_gold/" class="md-nav__link">
+      <a href="../notebooks/004_silver/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    004 - Gold
+    004 - Silver
   </span>
   
 
@@ -526,11 +526,32 @@
   
   
     <li class="md-nav__item">
-      <a href="../notebooks/005_destruindo_ambiente/" class="md-nav__link">
+      <a href="../notebooks/005_gold/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    005 - Destruindo ambiente
+    005 - Gold
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../notebooks/006_destruindo_ambiente/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    006 - Destruindo ambiente
   </span>
   
 
@@ -638,14 +659,16 @@
 <h2 id="visao-geral">Visao Geral<a class="headerlink" href="#visao-geral" title="Permanent link">&para;</a></h2>
 <pre class="mermaid"><code>%%{init: {"theme": "base", "themeVariables": {"primaryTextColor": "#ffffff", "tertiaryTextColor": "#ffffff", "nodeTextColor": "#ffffff", "fontFamily": "Arial"}}}%%
 flowchart LR
-    csv[(Arquivos CSV&lt;br/&gt;Base relacional de seguros)]
+    db[(MongoDB Atlas&lt;br/&gt;AI Job Market Insights)]
+    json[(JSON&lt;br/&gt;Landing dados)]
     landing[(Landing&lt;br/&gt;Volume dados&lt;br/&gt;Arquivos brutos)]
     bronze[(Bronze&lt;br/&gt;Delta Lake&lt;br/&gt;Estrutura da origem)]
     silver[(Silver&lt;br/&gt;Delta Lake&lt;br/&gt;Dados qualificados)]
     gold[(Gold&lt;br/&gt;Modelo dimensional&lt;br/&gt;Analise de negocio)]
     job[Databricks Job&lt;br/&gt;Orquestracao dos notebooks]
 
-    csv --&gt;|Ingestao| landing
+    db --&gt;|Notebook 000&lt;br/&gt;Extracao| json
+    json --&gt;|Ingestao| landing
     landing --&gt;|Notebook 002| bronze
     bronze --&gt;|Notebook 003&lt;br/&gt;Data Quality| silver
     silver --&gt;|Notebook 004&lt;br/&gt;Dimensoes e fatos| gold
@@ -660,18 +683,19 @@ flowchart LR
     classDef process fill:#f97316,stroke:#fed7aa,color:#ffffff
     linkStyle default stroke:#475569,color:#111827
 
-    class csv source
+    class db,json source
     class landing,bronze,silver,gold layer
     class job process
 
-    style csv color:#ffffff
+    style json color:#ffffff
+    style db color:#ffffff
     style landing color:#ffffff
     style bronze color:#ffffff
     style silver color:#ffffff
     style gold color:#ffffff
     style job color:#ffffff</code></pre>
 <h2 id="landing">Landing<a class="headerlink" href="#landing" title="Permanent link">&para;</a></h2>
-<p>A Landing e a camada de entrada. Nela ficam os arquivos CSV exatamente como recebidos.</p>
+<p>A Landing e a camada de entrada. Nela ficam os arquivos JSON exatamente como recebidos do MongoDB Atlas.</p>
 <p>No Databricks, essa camada foi representada pelo schema <code>workspace.landing</code> e pelo volume <code>workspace.landing.dados</code>.</p>
 <p>Responsabilidades:</p>
 <ul>
@@ -680,7 +704,7 @@ flowchart LR
 <li>servir como ponto inicial de reprocessamento.</li>
 </ul>
 <h2 id="bronze">Bronze<a class="headerlink" href="#bronze" title="Permanent link">&para;</a></h2>
-<p>A Bronze transforma os arquivos CSV em tabelas Delta.</p>
+<p>A Bronze transforma os arquivos JSON em tabelas Delta.</p>
 <p>Responsabilidades:</p>
 <ul>
 <li>ler os arquivos da Landing;</li>
@@ -706,7 +730,7 @@ flowchart LR
 <li>disponibilizar dimensoes;</li>
 <li>disponibilizar tabela fato;</li>
 <li>reduzir complexidade para consultas;</li>
-<li>apoiar analises de apolices, clientes, veiculos e sinistros.</li>
+<li>apoiar analises de cargos, setores, salarios, habilidades, localizacao, trabalho remoto, risco de automacao e crescimento do mercado.</li>
 </ul>
 <p>O desenho segue a abordagem dimensional de Ralph Kimball, separando entidades descritivas em dimensoes e eventos/medidas em fatos.</p>
 
