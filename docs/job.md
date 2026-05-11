@@ -28,16 +28,16 @@ Com isso, a execucao deixa de depender de rodar manualmente cada notebook em sep
 001 Preparando ambiente
         │
         ▼
-000 Extracao
+002 Extracao
         │
         ▼
-002 Bronze
+003 Bronze
         │
         ▼
-003 Silver
+004 Silver
         │
         ▼
-004 Gold
+005 Gold
 ```
 
 ## Resultado Esperado

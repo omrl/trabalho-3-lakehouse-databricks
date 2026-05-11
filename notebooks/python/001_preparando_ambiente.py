@@ -1,5 +1,5 @@
 ﻿# Databricks notebook source
-# Notebook: 001 - Atifidade Pratica - Lakehouse - Preparando ambiente
+# Notebook: 001 - Atividade Pratica - Lakehouse - Preparando ambiente
 
 # COMMAND ----------
 
@@ -14,7 +14,7 @@
 # MAGIC %sql
 # MAGIC
 # MAGIC CREATE SCHEMA IF NOT EXISTS workspace.landing
-# MAGIC COMMENT 'Schema/Database para dados bronze (delta)';
+# MAGIC COMMENT 'Schema/Database para dados brutos extraidos da origem';
 # MAGIC
 # MAGIC CREATE VOLUME IF NOT EXISTS workspace.landing.dados
 # MAGIC COMMENT 'Volume para dados brutos criados no schema/database landing';

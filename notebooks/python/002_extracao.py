@@ -29,10 +29,12 @@ if not mongodb_uri:
 
 import json
 from pathlib import Path
+import shutil
 import certifi
 from pymongo import MongoClient
 
 caminho_landing = "/Volumes/workspace/landing/dados"
+caminho_temporario = Path("/tmp/ai_job_market_landing")
 
 collections = {
     "job_title": "Job_Title",
@@ -50,10 +52,14 @@ collections = {
 # COMMAND ----------
 
 dbutils.fs.mkdirs(caminho_landing)
+caminho_temporario.mkdir(parents=True, exist_ok=True)
 
 for arquivo in dbutils.fs.ls(caminho_landing):
     if arquivo.name.endswith(".json"):
         dbutils.fs.rm(arquivo.path)
+
+for arquivo in caminho_temporario.glob("*.json"):
+    arquivo.unlink()
 
 # COMMAND ----------
 
@@ -67,7 +73,7 @@ database = client[mongodb_database]
 
 for collection_name, source_column in collections.items():
     docs = database[collection_name].find({}, {"_id": 0}).sort("id_linha", 1)
-    output_path = Path(caminho_landing) / f"{collection_name}.json"
+    output_path = caminho_temporario / f"{collection_name}.json"
 
     with output_path.open("w", encoding="utf-8") as output:
         for doc in docs:
@@ -83,7 +89,10 @@ for collection_name, source_column in collections.items():
             )
             output.write("\n")
 
+    dbutils.fs.cp(f"file:{output_path}", f"{caminho_landing}/{collection_name}.json")
+
 client.close()
+shutil.rmtree(caminho_temporario, ignore_errors=True)
 
 # COMMAND ----------
 

@@ -26,7 +26,7 @@ Arquivos JSON no volume:
 - Gerar um JSON para cada collection no volume da Landing.
 - Manter o campo `id_linha` para permitir a reconstrucao da base na Silver.
 
-## Tabelas Extraidas
+## Collections Extraidas
 
 - `job_title`
 - `industry`

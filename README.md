@@ -152,6 +152,7 @@ Camada dimensional, voltada para analise. O modelo segue a abordagem de Ralph Ki
 │   ├── job.md
 │   └── notebooks/
 │       ├── 001_preparando_ambiente.md
+│       ├── 002_extracao.md
 │       ├── 003_bronze.md
 │       ├── 004_silver.md
 │       ├── 005_gold.md
@@ -187,7 +188,3 @@ Camada dimensional, voltada para analise. O modelo segue a abordagem de Ralph Ki
 - Dimensoes e fatos
 - Encadeamento de notebooks com Databricks Jobs
 - Organizacao de projeto de Engenharia de Dados
-│   └── mongodb/
-│       └── collections/
-
-
