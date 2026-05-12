@@ -23,15 +23,6 @@ MongoDB Atlas -> JSON/Landing -> Bronze -> Silver -> Gold
 
 Cada etapa foi implementada em um notebook separado, permitindo que o pipeline seja executado de forma modular ou encadeado em uma Job.
 
-## Entregaveis
-
-- Arquivos JSON para carga no MongoDB Atlas em `data/mongodb/collections/`.
-- Arquivos JSON extraidos para a Landing.
-- Notebooks em formato `.ipynb` na pasta `notebooks/`.
-- Documentacao em MkDocs na pasta `docs/`.
-- Arquivo `mkdocs.yml` para gerar a documentacao.
-- `README.md` explicando o projeto no GitHub.
-
 ## Schemas Criados
 
 | Schema | Papel |
