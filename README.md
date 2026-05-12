@@ -87,7 +87,7 @@ Cada documento JSON contem:
 
 ## Notebooks
 
-Os notebooks estao em scripts `.py` legiveis em `notebooks/python/`. Esse formato pode ser revisado diretamente pelo GitHub e tambem pode ser importado no Databricks como notebook.
+Os notebooks estao em formato `.ipynb` na pasta `notebooks/`. Esse formato pode ser revisado diretamente pelo GitHub, aberto em Jupyter e importado no Databricks como notebook.
 
 | Ordem | Notebook | Finalidade |
 | ---: | --- | --- |
@@ -101,7 +101,7 @@ Os notebooks estao em scripts `.py` legiveis em `notebooks/python/`. Esse format
 ## Execucao no Databricks
 
 1. Acesse o Databricks Free Edition.
-2. Importe os arquivos `.py` da pasta `notebooks/python/` para o Workspace do Databricks.
+2. Importe os arquivos `.ipynb` da pasta `notebooks/` para o Workspace do Databricks.
 3. Execute o notebook `001 - Preparando ambiente`.
 4. Crie o banco `ai_job_market` no MongoDB Atlas e importe os JSONs de `data/mongodb/collections/` como collections.
 5. Execute o notebook `002 - Extracao`, informando a connection string do Atlas no widget `mongodb_uri`, para gerar os JSONs em `workspace.landing.dados`.
@@ -158,7 +158,12 @@ Camada dimensional, voltada para analise. O modelo segue a abordagem de Ralph Ki
 │       ├── 005_gold.md
 │       └── 006_destruindo_ambiente.md
 ├── notebooks/
-│   └── python/
+│   ├── 001_preparando_ambiente.ipynb
+│   ├── 002_extracao.ipynb
+│   ├── 003_bronze.ipynb
+│   ├── 004_silver.ipynb
+│   ├── 005_gold.ipynb
+│   └── 006_destruindo_ambiente.ipynb
 ├── mkdocs.yml
 ├── requirements.txt
 └── README.md

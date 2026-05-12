@@ -8,7 +8,7 @@ Esta pagina descreve como executar o projeto no Databricks Free Edition.
 - Permissao para criar schemas, volumes e tabelas no workspace.
 - Banco `ai_job_market` criado no MongoDB Atlas.
 - Collections importadas a partir dos arquivos de `data/mongodb/collections/`.
-- Notebooks `.py` disponiveis na pasta `notebooks/python/`.
+- Notebooks `.ipynb` disponiveis na pasta `notebooks/`.
 
 ## Importacao dos Notebooks
 
@@ -17,7 +17,7 @@ No Databricks:
 1. Acesse `Workspace`.
 2. Escolha a pasta onde deseja importar os notebooks.
 3. Clique em `Import`.
-4. Selecione os arquivos `.py` da pasta `notebooks/python/`.
+4. Selecione os arquivos `.ipynb` da pasta `notebooks/`.
 5. Confirme a importacao como notebooks.
 
 ## Preparacao do MongoDB Atlas

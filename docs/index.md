@@ -27,7 +27,7 @@ Cada etapa foi implementada em um notebook separado, permitindo que o pipeline s
 
 - Arquivos JSON para carga no MongoDB Atlas em `data/mongodb/collections/`.
 - Arquivos JSON extraidos para a Landing.
-- Notebooks em scripts `.py` legiveis em `notebooks/python/`.
+- Notebooks em formato `.ipynb` na pasta `notebooks/`.
 - Documentacao em MkDocs na pasta `docs/`.
 - Arquivo `mkdocs.yml` para gerar a documentacao.
 - `README.md` explicando o projeto no GitHub.
