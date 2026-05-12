@@ -176,6 +176,7 @@ Camada dimensional, voltada para analise. O modelo segue a abordagem de Ralph Ki
 - PySpark
 - Spark SQL
 - Delta Lake
+- MongoDB Atlas
 - Unity Catalog
 - Databricks Volumes
 - Databricks Jobs
